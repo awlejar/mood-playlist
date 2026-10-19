@@ -1,0 +1,426 @@
+@pop
+Blinding Lights | The Weeknd | drive,hype,dawn,workout | 2019 | 5
+Save Your Tears | The Weeknd | breakup,drive,nostalgia | 2020 | 4
+Starboy (feat. Daft Punk) | The Weeknd | confident,dawn,drive | 2016 | 4
+Die For You | The Weeknd | love,dawn | 2016 | 3
+I Feel It Coming (feat. Daft Punk) | The Weeknd | love,dawn,drive | 2016 | 3
+Out of Time | The Weeknd | breakup,nostalgia,dawn | 2022 | 3
+Can't Feel My Face | The Weeknd | hype,party | 2015 | 5
+Timeless | The Weeknd | confident,dawn | 2024 | 4
+Shape of You | Ed Sheeran | happy,party,flutter | 2017 | 4
+Perfect | Ed Sheeran | love,winter,calm | 2017 | 2
+Thinking Out Loud | Ed Sheeran | love,calm | 2014 | 2
+Photograph | Ed Sheeran | nostalgia,love,calm | 2014 | 2
+Bad Habits | Ed Sheeran | dawn,party,drive | 2021 | 5
+Shivers | Ed Sheeran | flutter,party,happy | 2021 | 5
+Castle on the Hill | Ed Sheeran | nostalgia,drive,travel | 2017 | 4
+Galway Girl | Ed Sheeran | happy,party,travel | 2017 | 4
+Azizam | Ed Sheeran | happy,love | 2025 | 4
+Anti-Hero | Taylor Swift | sad,commute | 2022 | 3
+Shake It Off | Taylor Swift | happy,hype,confident | 2014 | 5
+Love Story | Taylor Swift | love,flutter,nostalgia | 2008 | 4
+Blank Space | Taylor Swift | confident,party | 2014 | 4
+Style | Taylor Swift | drive,dawn,confident | 2014 | 4
+Cruel Summer | Taylor Swift | summer,flutter,drive | 2019 | 5
+Cardigan | Taylor Swift | autumn,nostalgia,calm | 2020 | 2
+All Too Well (10 Minute Version) (Taylor's Version) | Taylor Swift | breakup,autumn,sad | 2021 | 2
+Enchanted | Taylor Swift | flutter,dreamy,love | 2010 | 3
+Lover | Taylor Swift | love,calm | 2019 | 2
+You Belong With Me | Taylor Swift | flutter,nostalgia | 2008 | 4
+Wildest Dreams | Taylor Swift | dreamy,love,dawn | 2014 | 3
+Fortnight (feat. Post Malone) | Taylor Swift | sad,dreamy | 2024 | 2
+The Fate of Ophelia | Taylor Swift | love,happy | 2025 | 4
+august | Taylor Swift | summer,nostalgia,breakup | 2020 | 3
+Delicate | Taylor Swift | flutter,dawn | 2017 | 3
+Lavender Haze | Taylor Swift | love,dreamy | 2022 | 3
+Levitating | Dua Lipa | hype,party,happy,workout | 2020 | 5
+Don't Start Now | Dua Lipa | confident,party,breakup,workout | 2019 | 5
+New Rules | Dua Lipa | confident,breakup | 2017 | 4
+Physical | Dua Lipa | workout,hype | 2020 | 5
+Houdini | Dua Lipa | party,confident | 2023 | 5
+Dance The Night | Dua Lipa | party,happy,hype | 2023 | 5
+Training Season | Dua Lipa | confident,party | 2024 | 5
+Break My Heart | Dua Lipa | dawn,party | 2020 | 4
+As It Was | Harry Styles | nostalgia,commute,drive | 2022 | 4
+Watermelon Sugar | Harry Styles | summer,happy,flutter | 2019 | 4
+Adore You | Harry Styles | love,flutter | 2019 | 4
+Late Night Talking | Harry Styles | flutter,dawn,happy | 2022 | 4
+Satellite | Harry Styles | dreamy,sad | 2022 | 3
+Sign of the Times | Harry Styles | sad,dreamy | 2017 | 2
+Golden | Harry Styles | happy,drive,summer | 2019 | 4
+Matilda | Harry Styles | comfort,calm | 2022 | 1
+Espresso | Sabrina Carpenter | confident,summer,cafe,happy | 2024 | 4
+Please Please Please | Sabrina Carpenter | love,confident | 2024 | 3
+Taste | Sabrina Carpenter | confident,breakup | 2024 | 4
+Feather | Sabrina Carpenter | breakup,happy,confident | 2023 | 4
+Manchild | Sabrina Carpenter | confident,breakup | 2025 | 4
+Nonsense | Sabrina Carpenter | flutter,happy | 2022 | 4
+drivers license | Olivia Rodrigo | breakup,sad,drive | 2021 | 2
+good 4 u | Olivia Rodrigo | breakup,hype,workout | 2021 | 5
+vampire | Olivia Rodrigo | breakup,sad | 2023 | 3
+traitor | Olivia Rodrigo | breakup,sad | 2021 | 2
+deja vu | Olivia Rodrigo | breakup,nostalgia | 2021 | 3
+happier | Olivia Rodrigo | breakup,sad | 2021 | 2
+get him back! | Olivia Rodrigo | breakup,hype | 2023 | 5
+bad idea right? | Olivia Rodrigo | hype,party | 2023 | 5
+favorite crime | Olivia Rodrigo | breakup,sad,dawn | 2021 | 1
+bad guy | Billie Eilish | confident,dreamy | 2019 | 4
+BIRDS OF A FEATHER | Billie Eilish | love,happy,summer,drive | 2024 | 4
+What Was I Made For? | Billie Eilish | sad,dawn,comfort | 2023 | 1
+when the party's over | Billie Eilish | sad,dawn,breakup | 2018 | 1
+Happier Than Ever | Billie Eilish | breakup,sad | 2021 | 3
+ocean eyes | Billie Eilish | dreamy,love,dawn | 2016 | 2
+lovely (with Khalid) | Billie Eilish | sad,dreamy,dawn | 2018 | 1
+LUNCH | Billie Eilish | confident,party | 2024 | 4
+CHIHIRO | Billie Eilish | dreamy,dawn | 2024 | 3
+WILDFLOWER | Billie Eilish | sad,breakup,calm | 2024 | 2
+Lovely Day | Bill Withers | happy,commute,calm | 1977 | 3
+Stay | The Kid LAROI | breakup,hype,drive | 2021 | 5
+Peaches (feat. Daniel Caesar & Giveon) | Justin Bieber | summer,love,drive | 2021 | 3
+Love Yourself | Justin Bieber | breakup,calm | 2015 | 2
+Sorry | Justin Bieber | party,summer | 2015 | 4
+Ghost | Justin Bieber | sad,nostalgia | 2021 | 3
+Intentions (feat. Quavo) | Justin Bieber | love | 2020 | 3
+Baby (feat. Ludacris) | Justin Bieber | nostalgia,flutter | 2010 | 4
+DAISIES | Justin Bieber | love,happy,summer | 2025 | 3
+Uptown Funk (feat. Bruno Mars) | Mark Ronson | hype,party,happy,workout | 2014 | 5
+24K Magic | Bruno Mars | party,confident,hype | 2016 | 5
+That's What I Like | Bruno Mars | love,party,happy | 2016 | 4
+Just the Way You Are | Bruno Mars | love,happy | 2010 | 3
+Marry You | Bruno Mars | love,happy,flutter | 2010 | 4
+Locked Out of Heaven | Bruno Mars | hype,party | 2012 | 5
+When I Was Your Man | Bruno Mars | breakup,sad | 2012 | 2
+Treasure | Bruno Mars | happy,party,summer | 2013 | 5
+Grenade | Bruno Mars | breakup,sad | 2010 | 3
+Talking to the Moon | Bruno Mars | sad,dawn | 2010 | 2
+Die With A Smile | Lady Gaga & Bruno Mars | love,sad,dawn | 2024 | 2
+Leave The Door Open | Silk Sonic | love,dawn | 2021 | 2
+Count on Me | Bruno Mars | comfort,happy | 2010 | 3
+Abracadabra | Lady Gaga | party,dreamy | 2025 | 5
+Bad Romance | Lady Gaga | party,confident | 2009 | 5
+Poker Face | Lady Gaga | party,nostalgia | 2008 | 5
+Shallow | Lady Gaga & Bradley Cooper | love,sad | 2018 | 2
+Just Dance | Lady Gaga | party,nostalgia,hype | 2008 | 5
+Rain On Me (with Ariana Grande) | Lady Gaga | rain,party,hype | 2020 | 5
+7 rings | Ariana Grande | confident,party | 2019 | 4
+thank u, next | Ariana Grande | breakup,confident,comfort | 2018 | 3
+positions | Ariana Grande | love,flutter | 2020 | 3
+we can't be friends (wait for your love) | Ariana Grande | breakup,sad,dreamy | 2024 | 3
+Into You | Ariana Grande | flutter,party | 2016 | 5
+no tears left to cry | Ariana Grande | comfort,hype,happy | 2018 | 4
+Dangerous Woman | Ariana Grande | confident,dawn | 2016 | 4
+Side To Side (feat. Nicki Minaj) | Ariana Grande | party,workout | 2016 | 4
+yes, and? | Ariana Grande | confident,party | 2024 | 4
+Flowers | Miley Cyrus | breakup,confident,comfort | 2023 | 4
+Party In The U.S.A. | Miley Cyrus | happy,party,nostalgia | 2009 | 5
+Wrecking Ball | Miley Cyrus | breakup,sad | 2013 | 3
+Midnight Sky | Miley Cyrus | dawn,confident | 2020 | 4
+Someone Like You | Adele | breakup,sad,dawn | 2011 | 1
+Rolling in the Deep | Adele | breakup,confident | 2010 | 4
+Hello | Adele | breakup,sad,nostalgia | 2015 | 2
+Easy On Me | Adele | breakup,comfort | 2021 | 2
+Set Fire to the Rain | Adele | rain,breakup | 2011 | 4
+Skyfall | Adele | dreamy,dawn | 2012 | 3
+When We Were Young | Adele | nostalgia,sad | 2015 | 2
+Make You Feel My Love | Adele | love,calm | 2008 | 1
+Firework | Katy Perry | comfort,hype,confident | 2010 | 5
+Teenage Dream | Katy Perry | flutter,summer,nostalgia | 2010 | 5
+Roar | Katy Perry | confident,workout | 2013 | 5
+Last Friday Night (T.G.I.F.) | Katy Perry | party,hype | 2011 | 5
+California Gurls (feat. Snoop Dogg) | Katy Perry | summer,party | 2010 | 5
+Dark Horse (feat. Juicy J) | Katy Perry | confident,dawn | 2013 | 4
+Umbrella (feat. JAY-Z) | Rihanna | rain,confident | 2007 | 4
+Diamonds | Rihanna | dreamy,dawn | 2012 | 3
+We Found Love (feat. Calvin Harris) | Rihanna | party,hype | 2011 | 5
+Only Girl (In The World) | Rihanna | party,confident | 2010 | 5
+Work (feat. Drake) | Rihanna | party,dawn | 2016 | 4
+Love On The Brain | Rihanna | love,dawn | 2016 | 3
+Stay (feat. Mikky Ekko) | Rihanna | sad,love | 2012 | 2
+Halo | Beyoncé | love,dreamy | 2008 | 3
+Crazy In Love (feat. Jay-Z) | Beyoncé | party,hype,love | 2003 | 5
+Single Ladies (Put a Ring on It) | Beyoncé | party,confident | 2008 | 5
+CUFF IT | Beyoncé | party,happy,hype | 2022 | 5
+TEXAS HOLD 'EM | Beyoncé | party,happy | 2024 | 4
+Irreplaceable | Beyoncé | breakup,confident | 2006 | 3
+Love On Top | Beyoncé | love,happy | 2011 | 4
+Toxic | Britney Spears | party,nostalgia | 2003 | 5
+...Baby One More Time | Britney Spears | nostalgia,party | 1998 | 5
+Hips Don't Lie (feat. Wyclef Jean) | Shakira | party,summer,hype | 2005 | 5
+Waka Waka (This Time for Africa) | Shakira | hype,workout,summer | 2010 | 5
+Call Me Maybe | Carly Rae Jepsen | flutter,happy,summer | 2011 | 5
+Run Away With Me | Carly Rae Jepsen | flutter,travel,drive | 2015 | 5
+Cheap Thrills | Sia | party,happy | 2016 | 5
+Chandelier | Sia | party,sad | 2014 | 4
+Unstoppable | Sia | confident,workout | 2016 | 4
+Titanium (feat. Sia) | David Guetta | confident,comfort,workout | 2011 | 5
+Happy | Pharrell Williams | happy,hype,commute | 2013 | 5
+Get Lucky (feat. Pharrell Williams & Nile Rodgers) | Daft Punk | party,happy,drive | 2013 | 4
+Can't Stop the Feeling! | Justin Timberlake | happy,hype,party | 2016 | 5
+Mirrors | Justin Timberlake | love | 2013 | 3
+SexyBack | Justin Timberlake | party,confident | 2006 | 5
+Señorita | Shawn Mendes & Camila Cabello | summer,love,flutter | 2019 | 3
+There's Nothing Holdin' Me Back | Shawn Mendes | flutter,drive,hype | 2017 | 5
+Treat You Better | Shawn Mendes | love | 2016 | 4
+Stitches | Shawn Mendes | breakup | 2015 | 4
+Havana (feat. Young Thug) | Camila Cabello | summer,party,flutter | 2017 | 4
+Sunflower | Post Malone & Swae Lee | happy,summer,drive | 2018 | 3
+Circles | Post Malone | breakup,drive,nostalgia | 2019 | 3
+Better Now | Post Malone | breakup | 2018 | 3
+I Had Some Help (feat. Morgan Wallen) | Post Malone | breakup,drive | 2024 | 4
+Congratulations (feat. Quavo) | Post Malone | confident,hype | 2016 | 4
+Stay With Me | Sam Smith | breakup,sad,dawn | 2014 | 2
+Unholy | Sam Smith & Kim Petras | confident,party | 2022 | 5
+Too Good At Goodbyes | Sam Smith | breakup,sad | 2017 | 2
+I'm Not The Only One | Sam Smith | breakup,sad | 2014 | 2
+Dancing With A Stranger (with Normani) | Sam Smith | dawn,party | 2019 | 4
+Someone You Loved | Lewis Capaldi | breakup,sad | 2018 | 2
+Before You Go | Lewis Capaldi | sad,comfort | 2019 | 2
+Heat Waves | Glass Animals | summer,nostalgia,dreamy,drive | 2020 | 3
+Riptide | Vance Joy | happy,summer,travel | 2013 | 4
+Budapest | George Ezra | happy,travel,cafe | 2014 | 3
+Shotgun | George Ezra | summer,drive,happy,travel | 2018 | 4
+Paradise | George Ezra | happy,flutter | 2018 | 5
+Green Green Grass | George Ezra | happy,summer | 2022 | 4
+Viva La Vida | Coldplay | hype,nostalgia,comfort | 2008 | 4
+Yellow | Coldplay | love,calm,dreamy | 2000 | 3
+The Scientist | Coldplay | breakup,sad,nostalgia | 2002 | 2
+Fix You | Coldplay | comfort,sad,dawn | 2005 | 2
+Paradise | Coldplay | dreamy,comfort | 2011 | 3
+A Sky Full of Stars | Coldplay | hype,dreamy,drive,dawn | 2014 | 5
+Adventure of a Lifetime | Coldplay | happy,hype,travel | 2015 | 4
+Hymn for the Weekend | Coldplay | happy,party,summer | 2015 | 4
+Something Just Like This | The Chainsmokers & Coldplay | dreamy,drive,hype | 2017 | 4
+My Universe | Coldplay & BTS | love,dreamy,hype | 2021 | 4
+Clocks | Coldplay | dreamy,drive | 2002 | 4
+Higher Power | Coldplay | hype,happy | 2021 | 5
+feelslikeimfallinginlove | Coldplay | love,flutter | 2024 | 4
+Counting Stars | OneRepublic | hype,drive,commute | 2013 | 5
+Apologize | OneRepublic | breakup,sad | 2007 | 3
+I Ain't Worried | OneRepublic | happy,summer,drive | 2022 | 4
+Good Life | OneRepublic | happy,travel,drive | 2010 | 4
+Sugar | Maroon 5 | love,happy,party | 2015 | 5
+Memories | Maroon 5 | nostalgia,sad,comfort | 2019 | 3
+Girls Like You (feat. Cardi B) | Maroon 5 | love | 2018 | 4
+Payphone (feat. Wiz Khalifa) | Maroon 5 | breakup,nostalgia | 2012 | 4
+Moves Like Jagger (feat. Christina Aguilera) | Maroon 5 | party,hype,confident | 2011 | 5
+She Will Be Loved | Maroon 5 | love,nostalgia,rain | 2002 | 3
+Sunday Morning | Maroon 5 | calm,cafe,love,rain | 2002 | 3
+Animals | Maroon 5 | confident,party | 2014 | 5
+Maps | Maroon 5 | breakup,drive | 2014 | 4
+Daylight | Maroon 5 | comfort,calm | 2012 | 3
+Shut Up and Dance | WALK THE MOON | happy,party,hype,drive | 2014 | 5
+Pompeii | Bastille | hype,dreamy | 2013 | 4
+Happier | Marshmello & Bastille | breakup,drive | 2018 | 4
+Believer | Imagine Dragons | confident,workout,hype | 2017 | 5
+Thunder | Imagine Dragons | confident,workout | 2017 | 5
+Radioactive | Imagine Dragons | confident,workout | 2012 | 5
+Demons | Imagine Dragons | sad,dawn | 2012 | 3
+On Top of the World | Imagine Dragons | happy,travel,drive | 2012 | 5
+Enemy (with JID) | Imagine Dragons | confident,workout | 2021 | 5
+Bones | Imagine Dragons | confident,workout,hype | 2022 | 5
+Natural | Imagine Dragons | confident,workout | 2018 | 5
+Bad Liar | Imagine Dragons | breakup,sad | 2018 | 3
+Love Me Like You Do | Ellie Goulding | love,dreamy | 2015 | 4
+Burn | Ellie Goulding | party,hype | 2013 | 5
+Lights | Ellie Goulding | dreamy,dawn | 2010 | 4
+Royals | Lorde | confident,dreamy | 2013 | 3
+Green Light | Lorde | breakup,party,hype | 2017 | 5
+Ribs | Lorde | nostalgia,party,dawn | 2013 | 4
+Team | Lorde | hype | 2013 | 4
+What Was That | Lorde | breakup,dawn | 2025 | 4
+Somebody That I Used to Know (feat. Kimbra) | Gotye | breakup,nostalgia | 2011 | 3
+Rewrite The Stars | Zac Efron & Zendaya | love,dreamy | 2017 | 4
+A Million Dreams | Ziv Zaifman, Hugh Jackman & Michelle Williams | dreamy,comfort | 2017 | 3
+This Is Me | Keala Settle | confident,comfort | 2017 | 5
+Let It Go | Idina Menzel | confident,winter | 2013 | 5
+How Far I'll Go | Auli'i Cravalho | comfort,travel,dreamy | 2016 | 4
+Into the Unknown | Idina Menzel & AURORA | dreamy,winter | 2019 | 4
+City of Stars | Ryan Gosling & Emma Stone | dreamy,love,dawn | 2016 | 2
+A Thousand Years | Christina Perri | love,dreamy | 2011 | 2
+Jar of Hearts | Christina Perri | breakup,sad | 2010 | 2
+All of Me | John Legend | love,calm | 2013 | 2
+Love Me Harder | Ariana Grande & The Weeknd | love,dawn | 2014 | 4
+Say You Won't Let Go | James Arthur | love,flutter | 2016 | 3
+Impossible | James Arthur | breakup,sad | 2012 | 3
+Lose You To Love Me | Selena Gomez | breakup,sad,comfort | 2019 | 2
+Calm Down | Rema & Selena Gomez | summer,party,flutter | 2022 | 4
+Come & Get It | Selena Gomez | party | 2013 | 4
+Wolves | Selena Gomez & Marshmello | sad,drive | 2017 | 4
+Love You Like a Love Song | Selena Gomez & The Scene | love,happy,nostalgia | 2011 | 5
+Attention | Charlie Puth | breakup,confident | 2017 | 4
+We Don't Talk Anymore (feat. Selena Gomez) | Charlie Puth | breakup,nostalgia | 2016 | 3
+See You Again (feat. Charlie Puth) | Wiz Khalifa | comfort,nostalgia,sad,drive | 2015 | 3
+Light Switch | Charlie Puth | happy,flutter | 2022 | 4
+How Long | Charlie Puth | breakup | 2017 | 4
+Left and Right (feat. Jung Kook of BTS) | Charlie Puth | love,happy | 2022 | 4
+One Call Away | Charlie Puth | love,comfort | 2015 | 3
+Dangerously | Charlie Puth | breakup,sad | 2016 | 2
+Shape of My Heart | Backstreet Boys | nostalgia,love | 2000 | 3
+I Want It That Way | Backstreet Boys | nostalgia,love | 1999 | 4
+Bye Bye Bye | *NSYNC | nostalgia,party,hype | 2000 | 5
+What Makes You Beautiful | One Direction | flutter,happy,nostalgia | 2011 | 5
+Story of My Life | One Direction | nostalgia,sad | 2013 | 4
+Night Changes | One Direction | nostalgia,dawn,love,drive | 2014 | 3
+Steal My Girl | One Direction | love | 2014 | 4
+Little Things | One Direction | love,calm | 2012 | 2
+Best Song Ever | One Direction | happy,party | 2013 | 5
+Drag Me Down | One Direction | hype,drive | 2015 | 4
+Perfect | One Direction | love,flutter | 2015 | 4
+Strip That Down (feat. Quavo) | Liam Payne | party | 2017 | 4
+Dusk Till Dawn (feat. Sia) | ZAYN | dawn,love,dreamy | 2017 | 4
+Pillowtalk | ZAYN | dawn,love | 2016 | 3
+Slow Hands | Niall Horan | flutter,dawn | 2017 | 4
+This Town | Niall Horan | nostalgia,love | 2016 | 2
+Heaven | Niall Horan | love,happy | 2023 | 4
+Nice To Meet Ya | Niall Horan | flutter,happy | 2019 | 5
+Sweet Creature | Harry Styles | love,calm | 2017 | 2
+Hold On | Justin Bieber | comfort,hype | 2021 | 4
+Beautiful Things | Benson Boone | love,sad | 2024 | 4
+Slow It Down | Benson Boone | love,dawn | 2024 | 4
+Mystical Magical | Benson Boone | happy,flutter | 2025 | 4
+greedy | Tate McRae | confident,party,workout | 2023 | 5
+exes | Tate McRae | breakup,confident | 2023 | 4
+Sports car | Tate McRae | confident,drive,dawn | 2025 | 4
+you broke me first | Tate McRae | breakup,sad | 2020 | 3
+Good Luck, Babe! | Chappell Roan | breakup,dreamy | 2024 | 4
+Pink Pony Club | Chappell Roan | party,confident,dreamy | 2020 | 4
+HOT TO GO! | Chappell Roan | party,hype,happy | 2023 | 5
+Casual | Chappell Roan | love,sad | 2023 | 3
+Red Wine Supernova | Chappell Roan | flutter,party | 2023 | 4
+Femininomenon | Chappell Roan | party,confident | 2022 | 5
+Apple | Charli xcx | party,hype | 2024 | 5
+360 | Charli xcx | confident,party | 2024 | 5
+Boom Clap | Charli xcx | love,happy | 2014 | 5
+Ordinary | Alex Warren | love,dreamy | 2025 | 3
+Messy | Lola Young | breakup,sad,confident | 2024 | 3
+Golden Hour | JVKE | love,dreamy,dawn | 2022 | 3
+Until I Found You | Stephen Sanchez | love,nostalgia | 2021 | 2
+I Like Me Better | Lauv | love,flutter,happy | 2017 | 4
+Paris in the Rain | Lauv | rain,love,travel | 2017 | 3
+Fun | Lauv | flutter | 2018 | 4
+Steal The Show | Lauv | love,happy | 2023 | 4
+Bad Day | Daniel Powter | comfort,commute,sad | 2005 | 3
+Hey There Delilah | Plain White T's | love,calm,nostalgia | 2005 | 2
+Lucky | Jason Mraz & Colbie Caillat | love,calm,cafe | 2008 | 2
+I'm Yours | Jason Mraz | happy,summer,cafe | 2008 | 3
+I Won't Give Up | Jason Mraz | love,comfort | 2012 | 2
+Bubbly | Colbie Caillat | love,flutter,cafe,calm | 2007 | 2
+Try | Colbie Caillat | comfort,confident | 2014 | 3
+A Thousand Miles | Vanessa Carlton | nostalgia,flutter,commute | 2002 | 4
+Complicated | Avril Lavigne | nostalgia,breakup | 2002 | 4
+Sk8er Boi | Avril Lavigne | nostalgia,hype | 2002 | 5
+Girlfriend | Avril Lavigne | confident,hype | 2007 | 5
+When You're Gone | Avril Lavigne | sad,breakup | 2007 | 3
+Hey, Soul Sister | Train | happy,flutter,summer | 2009 | 4
+Drops of Jupiter (Tell Me) | Train | nostalgia,dreamy | 2001 | 3
+Viva Forever | Spice Girls | nostalgia | 1998 | 3
+Wannabe | Spice Girls | party,nostalgia,hype | 1996 | 5
+Dancing Queen | ABBA | party,happy,nostalgia | 1976 | 5
+Mamma Mia | ABBA | happy,party,nostalgia | 1975 | 5
+Gimme! Gimme! Gimme! (A Man After Midnight) | ABBA | party,dawn,nostalgia | 1979 | 5
+I Wanna Dance with Somebody (Who Loves Me) | Whitney Houston | party,happy,nostalgia | 1987 | 5
+I Will Always Love You | Whitney Houston | breakup,love,sad | 1992 | 3
+Billie Jean | Michael Jackson | party,nostalgia,confident | 1982 | 5
+Beat It | Michael Jackson | hype,workout,nostalgia | 1982 | 5
+Rock With You | Michael Jackson | party,love,nostalgia | 1979 | 4
+Thriller | Michael Jackson | party,nostalgia | 1982 | 5
+Man in the Mirror | Michael Jackson | comfort,confident | 1987 | 4
+Smooth Criminal | Michael Jackson | confident,hype | 1987 | 5
+Don't Stop 'Til You Get Enough | Michael Jackson | party,hype | 1979 | 5
+Wake Me Up Before You Go-Go | Wham! | happy,nostalgia,commute | 1984 | 5
+Last Christmas | Wham! | winter,nostalgia,breakup | 1984 | 4
+All I Want for Christmas Is You | Mariah Carey | winter,happy,party | 1994 | 5
+Santa Tell Me | Ariana Grande | winter,flutter | 2014 | 4
+Mistletoe | Justin Bieber | winter,love | 2011 | 3
+It's Beginning to Look a Lot like Christmas | Michael Bublé | winter,happy,calm | 2011 | 3
+Underneath the Tree | Kelly Clarkson | winter,happy | 2013 | 5
+Snowman | Sia | winter,love,calm | 2017 | 2
+Since U Been Gone | Kelly Clarkson | breakup,hype | 2004 | 5
+Stronger (What Doesn't Kill You) | Kelly Clarkson | confident,workout | 2011 | 5
+Girls Just Want to Have Fun | Cyndi Lauper | happy,party,nostalgia | 1983 | 5
+Time After Time | Cyndi Lauper | nostalgia,love | 1983 | 2
+Take On Me | a-ha | nostalgia,happy,drive | 1985 | 5
+Don't Stop Believin' | Journey | hype,nostalgia,drive | 1981 | 5
+Africa | TOTO | nostalgia,travel,drive | 1982 | 4
+Everybody Wants to Rule the World | Tears For Fears | drive,nostalgia | 1985 | 4
+Never Gonna Give You Up | Rick Astley | happy,nostalgia,party | 1987 | 5
+Careless Whisper | George Michael | nostalgia,dawn,breakup | 1984 | 2
+Faith | George Michael | confident,nostalgia | 1987 | 4
+Like a Prayer | Madonna | nostalgia,party | 1989 | 5
+Material Girl | Madonna | confident,nostalgia | 1984 | 5
+Hung Up | Madonna | party,hype | 2005 | 5
+Murder On The Dancefloor | Sophie Ellis-Bextor | party,hype,nostalgia | 2001 | 5
+Can't Get You out of My Head | Kylie Minogue | party,dreamy | 2001 | 5
+Padam Padam | Kylie Minogue | party,flutter | 2023 | 5
+I Gotta Feeling | Black Eyed Peas | party,hype,happy | 2009 | 5
+Where Is The Love? | Black Eyed Peas | comfort,nostalgia | 2003 | 4
+Party Rock Anthem | LMFAO | party,hype,workout | 2011 | 5
+Rather Be (feat. Jess Glynne) | Clean Bandit | happy,travel,commute | 2014 | 5
+Symphony (feat. Zara Larsson) | Clean Bandit | love,dreamy | 2017 | 4
+Lush Life | Zara Larsson | summer,happy | 2015 | 5
+Never Forget You | Zara Larsson & MNEK | nostalgia,love | 2015 | 4
+Ain't My Fault | Zara Larsson | confident,party | 2016 | 5
+Sorry Not Sorry | Demi Lovato | confident,party | 2017 | 5
+Confident | Demi Lovato | confident,workout | 2015 | 5
+Skyscraper | Demi Lovato | comfort | 2011 | 3
+Heart Attack | Demi Lovato | flutter | 2013 | 5
+Cool for the Summer | Demi Lovato | summer,party | 2015 | 5
+Fight Song | Rachel Platten | confident,comfort,workout | 2015 | 4
+Brave | Sara Bareilles | confident,comfort | 2013 | 4
+Love Song | Sara Bareilles | confident | 2007 | 4
+Dynamite | Taio Cruz | party,hype | 2010 | 5
+Good Time | Owl City & Carly Rae Jepsen | happy,summer,party | 2012 | 5
+Fireflies | Owl City | dreamy,dawn,nostalgia,sleep | 2009 | 3
+Vanilla Twilight | Owl City | dreamy,dawn,sad | 2009 | 2
+Cheerleader (Felix Jaehn Remix) | OMI | summer,happy | 2014 | 4
+Sugar | Robin Schulz & Francesco Yates | summer,party | 2015 | 5
+Lean On | Major Lazer & DJ Snake | party,summer,dreamy | 2015 | 5
+Cold Water (feat. Justin Bieber & MØ) | Major Lazer | summer,comfort | 2016 | 4
+One Kiss | Calvin Harris & Dua Lipa | party,summer,flutter | 2018 | 5
+Summer | Calvin Harris | summer,drive,party | 2014 | 5
+This Is What You Came For (feat. Rihanna) | Calvin Harris | party,summer | 2016 | 5
+Feel So Close | Calvin Harris | happy,hype,drive | 2011 | 5
+How Deep Is Your Love | Calvin Harris & Disciples | dawn,party | 2015 | 5
+Slide (feat. Frank Ocean & Migos) | Calvin Harris | summer,drive,calm | 2017 | 3
+Feels (feat. Pharrell Williams, Katy Perry & Big Sean) | Calvin Harris | summer,happy | 2017 | 4
+Closer (feat. Halsey) | The Chainsmokers | nostalgia,drive,flutter | 2016 | 4
+Don't Let Me Down (feat. Daya) | The Chainsmokers | hype,party | 2016 | 5
+Paris | The Chainsmokers | dreamy,travel | 2017 | 4
+Roses (feat. ROZES) | The Chainsmokers | dreamy,love | 2015 | 4
+Without Me | Halsey | breakup,dawn | 2018 | 3
+Bad at Love | Halsey | breakup | 2017 | 4
+Graveyard | Halsey | sad,dreamy | 2019 | 3
+Eastside | benny blanco, Halsey & Khalid | nostalgia,drive,love | 2018 | 4
+Young Dumb & Broke | Khalid | nostalgia,happy,summer | 2017 | 3
+Location | Khalid | love,dawn | 2016 | 3
+Talk | Khalid | love,dawn | 2019 | 3
+Better | Khalid | love,dawn,calm | 2018 | 2
+Love Lies | Khalid & Normani | love,dawn | 2018 | 4
+New Light | John Mayer | happy,drive,summer | 2018 | 4
+Gravity | John Mayer | sad,dawn,calm | 2006 | 2
+Slow Dancing in a Burning Room | John Mayer | breakup,dawn | 2006 | 2
+Daughters | John Mayer | calm,love | 2003 | 2
+Your Body Is a Wonderland | John Mayer | love,summer | 2001 | 3
+Free Fallin' | John Mayer | calm,drive | 2008 | 2
+Waiting On the World to Change | John Mayer | calm,comfort | 2006 | 3
+Hometown Glory | Adele | nostalgia,calm | 2007 | 2
+Pink + White | Frank Ocean | summer,dreamy,calm | 2016 | 2
+Lovers Rock | TV Girl | dreamy,love,dawn | 2014 | 3
+Not Allowed | TV Girl | dreamy,breakup | 2014 | 3
+Cupid | FIFTY FIFTY | flutter,happy,spring | 2023 | 4
+Daylight | David Kushner | sad,dreamy | 2023 | 3
+Snooze | SZA | love,dawn,calm | 2022 | 3
+Kill Bill | SZA | breakup,confident | 2022 | 3
+Good Days | SZA | comfort,calm,dreamy | 2020 | 2
+Saturn | SZA | dreamy,dawn | 2024 | 3
+I Hate U | SZA | breakup,dawn | 2021 | 3
+Kiss Me More (feat. SZA) | Doja Cat | flutter,happy,summer | 2021 | 4
+Say So | Doja Cat | flutter,happy,party | 2019 | 4
+Woman | Doja Cat | confident,party | 2021 | 4
+Paint The Town Red | Doja Cat | confident | 2023 | 4
+Need To Know | Doja Cat | dawn,party | 2021 | 4
+Montero (Call Me By Your Name) | Lil Nas X | confident,party | 2021 | 5
+Old Town Road (Remix) (feat. Billy Ray Cyrus) | Lil Nas X | happy,drive | 2019 | 4
+Industry Baby (feat. Jack Harlow) | Lil Nas X | confident,workout,hype | 2021 | 5
+abcdefu | GAYLE | breakup,hype | 2021 | 5
+Running Up That Hill (A Deal With God) | Kate Bush | dreamy,nostalgia,drive | 1985 | 4

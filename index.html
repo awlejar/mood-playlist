@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="기분, 노래 한 곡, 가수 한 명으로 플레이리스트를 만들고 Apple Music, Spotify, YouTube Music에서 바로 들어요." />
+    <meta name="theme-color" content="#0f1020" />
+    <title>오늘 뭐 듣지</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='30' fill='%237c6cff'/%3E%3Ccircle cx='32' cy='32' r='9' fill='%230f1020'/%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" />
+  </head>
+  <body>
+    <header class="top">
+      <a class="brand" href="./"><span class="disc" aria-hidden="true"></span>오늘 뭐 듣지</a>
+      <button class="ghost small" id="yt-key-btn" type="button">YouTube 설정</button>
+    </header>
+
+    <main>
+      <section class="hero">
+        <h1>지금 기분에 맞는 플리</h1>
+        <p class="sub">기분, 노래 한 곡, 가수 한 명 중 하나만 적어도 돼요. 고른 곡은 Apple Music, Spotify, YouTube Music에서 바로 들을 수 있어요.</p>
+      </section>
+
+      <form class="card" id="form" autocomplete="off">
+        <label class="field">
+          <span class="label">지금 기분</span>
+          <input id="text" type="text" placeholder="예: 비 오는 새벽인데 좀 우울해" />
+        </label>
+
+        <div class="field">
+          <span class="label">기분</span>
+          <div class="chips" id="chips-feel"></div>
+        </div>
+        <div class="field">
+          <span class="label">분위기·상황</span>
+          <div class="chips" id="chips-scene"></div>
+        </div>
+
+        <div class="row2">
+          <label class="field">
+            <span class="label">노래 한 곡</span>
+            <input id="song" type="text" placeholder="예: 아이유 - 밤편지" />
+          </label>
+          <label class="field">
+            <span class="label">가수 한 명</span>
+            <input id="artist" type="text" placeholder="예: 잔나비" />
+          </label>
+        </div>
+
+        <details class="options">
+          <summary>세부 설정</summary>
+          <div class="opt-grid">
+            <label class="field">
+              <span class="label">곡 수</span>
+              <select id="count">
+                <option value="10">10곡</option>
+                <option value="20" selected>20곡</option>
+                <option value="30">30곡</option>
+                <option value="50">50곡</option>
+              </select>
+            </label>
+            <label class="field">
+              <span class="label">국내·해외</span>
+              <select id="region">
+                <option value="all">섞어서</option>
+                <option value="ko">국내만</option>
+                <option value="global">해외만</option>
+              </select>
+            </label>
+            <label class="field">
+              <span class="label">시대</span>
+              <select id="era">
+                <option value="all">전체</option>
+                <option value="new">2020년대</option>
+                <option value="10s">2010년대</option>
+                <option value="old">그 이전</option>
+              </select>
+            </label>
+            <label class="check">
+              <input id="trending" type="checkbox" />
+              <span>요즘 인기곡 섞기</span>
+            </label>
+          </div>
+        </details>
+
+        <button class="primary" id="go" type="submit">플리 만들기</button>
+        <p class="hint" id="form-hint" role="status"></p>
+      </form>
+
+      <section class="result" id="result" hidden>
+        <div class="result-head">
+          <div>
+            <p class="eyebrow" id="result-meta"></p>
+            <h2 id="result-title"></h2>
+          </div>
+          <div class="actions">
+            <button class="ghost" id="shuffle" type="button">다시 섞기</button>
+            <button class="ghost" id="yt-play" type="button">YouTube로 듣기</button>
+            <button class="ghost" id="copy-list" type="button">곡 목록 복사</button>
+            <button class="ghost" id="share" type="button">링크 복사</button>
+          </div>
+        </div>
+        <ul class="notes" id="notes"></ul>
+        <ol class="tracks" id="tracks"></ol>
+
+        <div class="card move">
+          <h3>플리 통째로 옮기기</h3>
+          <ol>
+            <li><b>곡 목록 복사</b>를 눌러요.</li>
+            <li>TuneMyMusic이나 Soundiiz에서 텍스트 붙여넣기를 골라요.</li>
+            <li>Spotify, Apple Music, YouTube Music 중 하나로 보내면 내 계정에 플리가 생겨요.</li>
+          </ol>
+          <div class="actions">
+            <a class="ghost btn" href="https://www.tunemymusic.com/ko/transfer" target="_blank" rel="noopener">TuneMyMusic 열기</a>
+            <a class="ghost btn" href="https://soundiiz.com/ko/" target="_blank" rel="noopener">Soundiiz 열기</a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="foot">
+      <p>곡 정보와 미리듣기는 iTunes와 Deezer 공개 API에서 가져와요.</p>
+    </footer>
+
+    <dialog id="yt-dialog">
+      <form method="dialog" class="dialog-body">
+        <h3>YouTube 이어 듣기 설정</h3>
+        <p>키 없이도 곡마다 YouTube Music 링크로 바로 갈 수 있어요. 20곡을 한 번에 이어서 들으려면 무료 YouTube Data API 키가 필요해요.</p>
+        <ol>
+          <li><a href="https://console.cloud.google.com/apis/library/youtube.googleapis.com" target="_blank" rel="noopener">Google Cloud 콘솔</a>에서 YouTube Data API v3를 켜요.</li>
+          <li>사용자 인증 정보에서 API 키를 만들어요.</li>
+          <li>아래에 붙여 넣어요. 키는 이 브라우저에만 저장돼요.</li>
+        </ol>
+        <label class="field">
+          <span class="label">API 키</span>
+          <input id="yt-key" type="text" placeholder="AIza..." spellcheck="false" />
+        </label>
+        <p class="hint">하루 무료 한도로 플리 5개(100곡) 정도 만들 수 있어요. 한 번 찾은 곡은 저장해 두고 다시 쓰지 않아요.</p>
+        <div class="actions end">
+          <button class="ghost" value="cancel">닫기</button>
+          <button class="primary small" value="save" id="yt-save">저장하기</button>
+        </div>
+      </form>
+    </dialog>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

@@ -1,0 +1,298 @@
+# 형식: 곡명 | 가수 | 무드(쉼표) | 발매연도 | 에너지(1~5)
+# '@장르' 줄 아래의 곡은 그 장르로 분류된다.
+@kpop
+Dynamite | BTS | hype,happy,summer,commute | 2020 | 5
+Butter | BTS | hype,happy,summer,confident | 2021 | 4
+봄날 | BTS | nostalgia,winter,comfort,spring | 2017 | 2
+피 땀 눈물 | BTS | dreamy,confident,dawn | 2016 | 4
+작은 것들을 위한 시 (Boy With Luv) | BTS | happy,flutter,spring | 2019 | 4
+Life Goes On | BTS | comfort,calm,autumn | 2020 | 2
+DNA | BTS | hype,flutter,confident | 2017 | 5
+Permission to Dance | BTS | happy,party,hype | 2021 | 4
+FAKE LOVE | BTS | sad,breakup,dawn | 2018 | 4
+Seven (feat. Latto) | Jung Kook | flutter,love,summer,drive | 2023 | 4
+Standing Next to You | Jung Kook | confident,party,hype | 2023 | 4
+Like Crazy | Jimin | dreamy,dawn,sad | 2023 | 3
+Who | Jimin | dreamy,dawn,drive | 2024 | 3
+Love Me Again | V | love,dawn,calm | 2023 | 2
+Slow Dancing | V | calm,love,cafe | 2023 | 2
+Super Shy | NewJeans | flutter,happy,summer,commute | 2023 | 4
+Ditto | NewJeans | nostalgia,winter,dreamy,flutter | 2022 | 3
+Hype Boy | NewJeans | flutter,happy,drive,summer | 2022 | 4
+OMG | NewJeans | flutter,happy,commute | 2023 | 3
+Attention | NewJeans | flutter,cafe,commute | 2022 | 3
+ETA | NewJeans | hype,party,drive | 2023 | 4
+How Sweet | NewJeans | happy,flutter,summer | 2024 | 4
+Cookie | NewJeans | flutter,confident,party | 2022 | 3
+Bubble Gum | NewJeans | happy,summer,cafe,spring | 2024 | 3
+Supernatural | NewJeans | nostalgia,dreamy,dawn | 2024 | 3
+Next Level | aespa | confident,hype,workout | 2021 | 5
+Supernova | aespa | hype,confident,workout,drive | 2024 | 5
+Spicy | aespa | hype,confident,summer | 2023 | 5
+Armageddon | aespa | confident,workout,hype | 2024 | 5
+Dreams Come True | aespa | nostalgia,dreamy,winter | 2021 | 3
+Whiplash | aespa | confident,party,workout | 2024 | 5
+Black Mamba | aespa | confident,workout | 2020 | 5
+LOVE DIVE | IVE | confident,flutter,party | 2022 | 4
+After LIKE | IVE | hype,happy,party,workout | 2022 | 5
+I AM | IVE | confident,comfort,workout,commute | 2023 | 4
+ELEVEN | IVE | flutter,dreamy,spring | 2021 | 3
+Kitsch | IVE | confident,happy,commute | 2023 | 4
+HEYA | IVE | confident,hype | 2024 | 4
+Baddie | IVE | confident,party | 2023 | 4
+ANTIFRAGILE | LE SSERAFIM | confident,workout,hype | 2022 | 5
+UNFORGIVEN | LE SSERAFIM | confident,workout,drive | 2023 | 5
+Perfect Night | LE SSERAFIM | happy,party,dawn | 2023 | 4
+EASY | LE SSERAFIM | confident,dawn,party | 2024 | 4
+FEARLESS | LE SSERAFIM | confident,workout | 2022 | 4
+CRAZY | LE SSERAFIM | party,hype,workout | 2024 | 5
+Queencard | (G)I-DLE | confident,party,hype | 2023 | 5
+TOMBOY | (G)I-DLE | confident,workout,hype | 2022 | 5
+Nxde | (G)I-DLE | confident,party | 2022 | 4
+Super Lady | (G)I-DLE | confident,workout | 2024 | 5
+Klaxon | (G)I-DLE | happy,summer,hype | 2024 | 5
+LATATA | (G)I-DLE | dreamy,party | 2018 | 4
+한 (一) (HANN (Alone)) | (G)I-DLE | sad,breakup,dawn | 2018 | 3
+Pink Venom | BLACKPINK | confident,hype,workout | 2022 | 5
+How You Like That | BLACKPINK | confident,workout,hype | 2020 | 5
+뚜두뚜두 (DDU-DU DDU-DU) | BLACKPINK | confident,party,workout | 2018 | 5
+마지막처럼 (AS IF IT'S YOUR LAST) | BLACKPINK | flutter,summer,happy | 2017 | 4
+Lovesick Girls | BLACKPINK | breakup,drive,confident | 2020 | 4
+STAY | BLACKPINK | breakup,calm,autumn | 2016 | 2
+붐바야 (BOOMBAYAH) | BLACKPINK | party,hype,workout | 2016 | 5
+Shut Down | BLACKPINK | confident,party | 2022 | 4
+FLOWER | JISOO | confident,spring,drive | 2023 | 4
+SOLO | JENNIE | confident,party | 2018 | 4
+like JENNIE | JENNIE | confident,party,workout | 2025 | 5
+Mantra | JENNIE | confident,party | 2024 | 4
+On The Ground | ROSÉ | confident,comfort | 2021 | 3
+Gone | ROSÉ | breakup,sad,dawn | 2021 | 2
+APT. | ROSÉ | party,hype,happy | 2024 | 5
+number one girl | ROSÉ | sad,dawn,breakup | 2024 | 2
+MONEY | LISA | confident,party,workout | 2021 | 5
+ROCKSTAR | LISA | confident,workout | 2024 | 5
+Cheer Up | TWICE | happy,hype,commute | 2016 | 5
+TT | TWICE | flutter,happy,autumn | 2016 | 4
+FANCY | TWICE | flutter,confident,party | 2019 | 4
+What is Love? | TWICE | flutter,happy,spring | 2018 | 4
+Feel Special | TWICE | comfort,confident,happy | 2019 | 4
+The Feels | TWICE | happy,flutter,summer | 2021 | 4
+Alcohol-Free | TWICE | summer,travel,flutter | 2021 | 3
+SET ME FREE | TWICE | confident,workout | 2023 | 4
+Dance The Night Away | TWICE | summer,party,hype | 2018 | 5
+Strategy | TWICE | confident,party | 2024 | 4
+Psycho | Red Velvet | dreamy,dawn,love | 2019 | 3
+빨간 맛 (Red Flavor) | Red Velvet | summer,hype,happy | 2017 | 5
+Feel My Rhythm | Red Velvet | spring,dreamy,happy | 2022 | 4
+Bad Boy | Red Velvet | confident,dawn | 2018 | 3
+Russian Roulette | Red Velvet | happy,hype | 2016 | 5
+피카부 (Peek-A-Boo) | Red Velvet | party,confident | 2017 | 4
+Power Up | Red Velvet | summer,hype,travel | 2018 | 5
+Cosmic | Red Velvet | dreamy,summer,dawn | 2024 | 3
+Love Shot | EXO | confident,dawn,party | 2018 | 4
+으르렁 (Growl) | EXO | confident,hype,nostalgia | 2013 | 4
+Call Me Baby | EXO | hype,confident | 2015 | 4
+첫 눈 (The First Snow) | EXO | winter,love,flutter | 2013 | 3
+Universe | EXO | winter,sad,nostalgia | 2017 | 2
+Lucky | EXO | flutter,happy,spring | 2013 | 3
+Hello Future | NCT DREAM | happy,comfort,summer | 2021 | 4
+맛 (Hot Sauce) | NCT DREAM | hype,party,summer | 2021 | 5
+Candy | NCT DREAM | winter,happy,nostalgia | 2022 | 4
+ISTJ | NCT DREAM | confident,hype | 2023 | 4
+Smoothie | NCT DREAM | confident,party | 2024 | 4
+Kick It | NCT 127 | confident,workout,hype | 2020 | 5
+Favorite (Vampire) | NCT 127 | dreamy,dawn,autumn | 2021 | 3
+Make A Wish (Birthday Song) | NCT U | party,hype | 2020 | 5
+Baggy Jeans | NCT U | confident,workout | 2021 | 4
+Steady | NCT WISH | happy,flutter,spring | 2024 | 4
+Love Me Right | EXO | happy,hype,summer | 2015 | 5
+Get A Guitar | RIIZE | happy,flutter,commute,spring | 2023 | 4
+Love 119 | RIIZE | flutter,nostalgia,winter | 2024 | 4
+Boom Boom Bass | RIIZE | hype,party,summer | 2024 | 4
+Impossible | RIIZE | hype,drive,party | 2024 | 4
+Siren | RIIZE | confident,drive | 2023 | 4
+Sugar Rush Ride | TOMORROW X TOGETHER | dreamy,summer,hype | 2023 | 4
+0X1=LOVESONG (I Know I Love You) | TOMORROW X TOGETHER | breakup,drive,confident | 2021 | 4
+어느날 머리에서 뿔이 자랐다 (CROWN) | TOMORROW X TOGETHER | happy,flutter | 2019 | 4
+Deja Vu | TOMORROW X TOGETHER | dreamy,drive | 2024 | 4
+Good Boy Gone Bad | TOMORROW X TOGETHER | confident,breakup | 2022 | 4
+Chasing That Feeling | TOMORROW X TOGETHER | hype,drive | 2023 | 4
+God's Menu | Stray Kids | confident,workout,hype | 2020 | 5
+MANIAC | Stray Kids | confident,workout,hype | 2022 | 5
+특 (S-Class) | Stray Kids | confident,workout | 2023 | 5
+락 (樂) (LALALALA) | Stray Kids | workout,hype,party | 2023 | 5
+Chk Chk Boom | Stray Kids | confident,party,workout | 2024 | 5
+Back Door | Stray Kids | party,hype | 2020 | 5
+아주 NICE | SEVENTEEN | happy,hype,party | 2016 | 5
+손오공 | SEVENTEEN | workout,hype,confident | 2023 | 5
+음악의 신 (God of Music) | SEVENTEEN | happy,party,hype | 2023 | 5
+Darl+ing | SEVENTEEN | love,flutter,cafe | 2022 | 3
+울고 싶지 않아 (Don't Wanna Cry) | SEVENTEEN | breakup,sad | 2017 | 3
+HOT | SEVENTEEN | summer,hype,workout | 2022 | 5
+MAESTRO | SEVENTEEN | confident,workout | 2024 | 5
+Very Nice | SEVENTEEN | happy,party,commute | 2016 | 5
+고민중독 | QWER | happy,hype,commute | 2024 | 5
+내 이름 맑음 | QWER | happy,comfort,summer | 2024 | 5
+Discord | QWER | hype,confident | 2023 | 5
+Magnetic | ILLIT | flutter,happy,commute | 2024 | 4
+Lucky Girl Syndrome | ILLIT | happy,flutter | 2024 | 4
+Cherish (My Love) | ILLIT | flutter,love,spring | 2024 | 3
+Drip | BABYMONSTER | confident,party,workout | 2024 | 5
+SHEESH | BABYMONSTER | confident,workout | 2024 | 5
+Forever | BABYMONSTER | summer,happy | 2024 | 4
+Midas Touch | KISS OF LIFE | confident,party,dawn | 2023 | 4
+Sticky | KISS OF LIFE | summer,happy,party | 2024 | 4
+Shhh | KISS OF LIFE | confident,dawn | 2023 | 4
+SPOT! (feat. JENNIE) | ZICO | party,hype,confident | 2024 | 5
+아무노래 | ZICO | party,hype,happy | 2020 | 5
+Rollin' | Brave Girls | summer,party,hype,drive | 2017 | 5
+Weekend | TAEYEON | happy,drive,travel,summer | 2021 | 4
+INVU | TAEYEON | breakup,dawn,confident | 2022 | 3
+I | TAEYEON | comfort,confident,autumn | 2015 | 3
+사계 (Four Seasons) | TAEYEON | nostalgia,autumn,calm | 2019 | 2
+Fine | TAEYEON | breakup,sad,rain | 2017 | 2
+To. X | TAEYEON | breakup,confident,dawn | 2023 | 3
+11:11 | TAEYEON | autumn,breakup,calm | 2016 | 2
+Rain | TAEYEON | rain,sad,calm | 2016 | 2
+만약에 (If) | TAEYEON | sad,love,dawn | 2008 | 1
+Gee | Girls' Generation | happy,nostalgia,hype | 2009 | 5
+다시 만난 세계 (Into the New World) | Girls' Generation | comfort,nostalgia,confident | 2007 | 4
+소원을 말해봐 (Genie) | Girls' Generation | nostalgia,confident,party | 2009 | 5
+FOREVER 1 | Girls' Generation | nostalgia,happy,summer | 2022 | 5
+Holiday | Girls' Generation | summer,happy,travel | 2017 | 5
+LION HEART | Girls' Generation | nostalgia,happy | 2015 | 4
+Bad Girl Good Girl | miss A | confident,nostalgia | 2010 | 4
+Abracadabra | Brown Eyed Girls | confident,nostalgia,party | 2009 | 4
+Nobody | Wonder Girls | nostalgia,party,happy | 2008 | 5
+Tell Me | Wonder Girls | nostalgia,party,happy | 2007 | 5
+Why So Lonely | Wonder Girls | summer,sad,drive | 2016 | 3
+FANTASTIC BABY | BIGBANG | party,hype,workout | 2012 | 5
+BANG BANG BANG | BIGBANG | party,hype,workout | 2015 | 5
+LOSER | BIGBANG | sad,dawn,breakup | 2015 | 3
+에라 모르겠다 (FXXK IT) | BIGBANG | party,breakup | 2016 | 3
+봄여름가을겨울 (Still Life) | BIGBANG | nostalgia,spring,calm | 2022 | 2
+거짓말 (Lies) | BIGBANG | nostalgia,breakup,party | 2007 | 4
+하루하루 (Haru Haru) | BIGBANG | breakup,nostalgia,sad | 2008 | 4
+WE LIKE 2 PARTY | BIGBANG | party,summer,happy | 2015 | 4
+삐딱하게 (Crooked) | G-DRAGON | breakup,confident,workout | 2013 | 5
+무제 (Untitled, 2014) | G-DRAGON | sad,breakup,dawn | 2017 | 2
+POWER | G-DRAGON | confident,hype | 2024 | 5
+HOME SWEET HOME (feat. TAEYANG & DAESUNG) | G-DRAGON | nostalgia,comfort | 2024 | 4
+눈,코,입 (EYES, NOSE, LIPS) | TAEYANG | breakup,sad,dawn | 2014 | 2
+I NEED A GIRL | TAEYANG | love,flutter | 2012 | 3
+I Am The Best | 2NE1 | confident,workout,party | 2011 | 5
+Lonely | 2NE1 | sad,breakup,dawn | 2011 | 2
+Ugly | 2NE1 | comfort,sad | 2011 | 3
+Fire | 2NE1 | confident,party,nostalgia | 2009 | 5
+Come Back Home | 2NE1 | breakup,nostalgia | 2014 | 3
+MISSING YOU | 2NE1 | sad,winter,breakup | 2013 | 2
+Sorry, Sorry | SUPER JUNIOR | party,nostalgia,hype | 2009 | 5
+Mr. Simple | SUPER JUNIOR | party,happy,hype | 2011 | 5
+Ring Ding Dong | SHINee | party,nostalgia,hype | 2009 | 5
+누난 너무 예뻐 (Replay) | SHINee | flutter,nostalgia,love | 2008 | 4
+View | SHINee | summer,drive,happy | 2015 | 4
+Lucifer | SHINee | confident,party | 2010 | 5
+Good Evening (蜃氣樓) | SHINee | dawn,dreamy | 2018 | 4
+Sherlock (Clue + Note) | SHINee | confident,hype | 2012 | 5
+Criminal | TAEMIN | dreamy,dawn,confident | 2020 | 4
+Move | TAEMIN | dreamy,dawn,confident | 2017 | 3
+Monster | EXO | confident,hype,workout | 2016 | 5
+Tempo | EXO | confident,hype | 2018 | 5
+Love Scenario | iKON | breakup,happy,commute | 2018 | 4
+취향저격 (MY TYPE) | iKON | flutter,love | 2015 | 4
+Really Really | WINNER | flutter,summer,happy | 2017 | 4
+EVERYDAY | WINNER | happy,commute,drive | 2018 | 4
+Wannabe | ITZY | confident,workout,hype | 2020 | 5
+달라달라 (DALLA DALLA) | ITZY | confident,hype,workout | 2019 | 5
+LOCO | ITZY | party,hype | 2021 | 5
+Not Shy | ITZY | confident,hype | 2020 | 5
+심쿵해 (Heart Attack) | AOA | flutter,happy | 2015 | 4
+Hi High | LOONA | happy,summer,flutter | 2018 | 5
+Butterfly | LOONA | dreamy,comfort | 2019 | 4
+So What | LOONA | confident,workout | 2020 | 5
+BOCA | Dreamcatcher | confident,workout | 2020 | 5
+VISION | Dreamcatcher | confident,workout | 2021 | 5
+Rookie | Red Velvet | happy,hype | 2017 | 5
+Fiesta | IZ*ONE | spring,happy,confident | 2020 | 5
+비올레타 (Violeta) | IZ*ONE | spring,flutter,dreamy | 2019 | 4
+Panorama | IZ*ONE | happy,travel | 2021 | 4
+Very Very Very | I.O.I | flutter,happy,hype | 2016 | 5
+Pick Me | PRODUCE 101 | happy,hype | 2016 | 5
+너의 의미 (Meaning of You) | IU | nostalgia,calm,cafe | 2014 | 2
+Dun Dun Dance | OH MY GIRL | happy,summer,hype | 2021 | 5
+살짝 설렜어 (Nonstop) | OH MY GIRL | flutter,happy,summer | 2020 | 4
+Dolphin | OH MY GIRL | happy,summer,flutter | 2020 | 4
+비밀정원 (Secret Garden) | OH MY GIRL | dreamy,spring,flutter | 2018 | 3
+Real Love | OH MY GIRL | love,happy | 2022 | 4
+너 그리고 나 (NAVILLERA) | GFRIEND | nostalgia,flutter,spring | 2016 | 5
+시간을 달려서 (Rough) | GFRIEND | nostalgia,flutter,commute | 2016 | 5
+오늘부터 우리는 (Me Gustas Tu) | GFRIEND | flutter,nostalgia,spring | 2015 | 5
+MAGO | GFRIEND | party,hype | 2020 | 5
+위아래 (Up & Down) | EXID | party,nostalgia | 2014 | 5
+Shake It | SISTAR | summer,party,hype | 2015 | 5
+Touch My Body | SISTAR | summer,party,happy | 2014 | 5
+I Swear | SISTAR | summer,happy | 2014 | 5
+Loving U | SISTAR | summer,love,travel | 2012 | 4
+Something | Girl's Day | confident,dawn | 2014 | 4
+NUNU NANA | Jessi | confident,party,workout | 2020 | 5
+Fly | GOT7 | hype,happy | 2016 | 5
+하드캐리 (Hard Carry) | GOT7 | confident,workout | 2016 | 5
+Lullaby | GOT7 | flutter,happy | 2018 | 4
+Monster | Red Velvet - IRENE & SEULGI | confident,dawn,dreamy | 2020 | 4
+Shine | PENTAGON | happy,hype,nostalgia | 2018 | 5
+WA DA DA | Kep1er | happy,hype,commute | 2022 | 5
+Bon Voyage | YooA | dreamy,travel | 2020 | 3
+Lip & Hip | HyunA | confident,party,summer | 2017 | 5
+Bubble Pop! | HyunA | summer,party,nostalgia | 2011 | 5
+Gangnam Style | PSY | party,hype,workout | 2012 | 5
+That That (prod. & feat. SUGA of BTS) | PSY | party,hype,workout | 2022 | 5
+New Face | PSY | party,happy | 2017 | 5
+Daechwita | Agust D | confident,workout | 2020 | 5
+Haegeum | Agust D | confident,workout | 2023 | 5
+Wild Flower (with youjeen) | RM | comfort,dawn,autumn | 2022 | 3
+on the street (with J. Cole) | j-hope | comfort,commute,calm | 2023 | 3
+Chicken Noodle Soup (feat. Becky G) | j-hope | party,hype | 2019 | 5
+Awake | Jin | calm,comfort,dawn | 2016 | 2
+The Astronaut | Jin | dreamy,comfort,calm | 2022 | 3
+Running Wild | Jin | drive,hype,happy | 2024 | 4
+Polaroid Love | ENHYPEN | flutter,love,nostalgia | 2022 | 3
+Bite Me | ENHYPEN | dreamy,dawn,confident | 2023 | 4
+Drunk-Dazed | ENHYPEN | confident,party,workout | 2021 | 5
+XO (Only If You Say Yes) | ENHYPEN | flutter,love | 2024 | 4
+Hate Rodrigo | YENA | happy,breakup | 2023 | 4
+SMILEY (feat. BIBI) | YENA | happy,commute,hype | 2022 | 5
+Pretty Savage | BLACKPINK | confident,workout | 2020 | 5
+Talk Saxy | RIIZE | confident,party,drive | 2024 | 4
+Golden | HUNTR/X | confident,hype,comfort | 2025 | 5
+Soda Pop | Saja Boys | happy,party,summer | 2025 | 5
+Your Idol | Saja Boys | confident,dawn,party | 2025 | 4
+How It's Done | HUNTR/X | confident,workout,hype | 2025 | 5
+What It Sounds Like | HUNTR/X | comfort,confident | 2025 | 4
+Takedown | HUNTR/X | confident,workout | 2025 | 5
+Free | Rumi & Jinu | comfort,love,dawn | 2025 | 3
+Dirty Work | aespa | confident,party | 2025 | 5
+Rich Man | aespa | confident,hype | 2025 | 5
+Jump | BLACKPINK | party,hype,workout | 2025 | 5
+FAMOUS | ALLDAY PROJECT | confident,party,workout | 2025 | 5
+WICKED | ALLDAY PROJECT | confident,party | 2025 | 5
+Rebel Heart | IVE | confident,comfort,workout | 2025 | 5
+ATTITUDE | IVE | confident,happy | 2025 | 4
+Hot | LE SSERAFIM | confident,dawn | 2025 | 4
+Spaghetti (feat. j-hope of BTS) | LE SSERAFIM | party,hype | 2025 | 5
+Gnarly | KATSEYE | confident,party,workout | 2025 | 5
+Gabriela | KATSEYE | summer,party,happy | 2025 | 4
+Touch | KATSEYE | flutter,summer | 2024 | 3
+Love wins all | IU | sad,love,dreamy | 2024 | 2
+Shopper | IU | happy,confident,hype | 2024 | 4
+Blueming | IU | flutter,happy,spring,commute | 2019 | 4
+LILAC | IU | spring,happy,nostalgia | 2021 | 4
+좋은 날 (Good Day) | IU | flutter,nostalgia,happy | 2010 | 4
+Celebrity | IU | comfort,confident | 2021 | 4
+strawberry moon | IU | dreamy,flutter,dawn | 2021 | 3
+삐삐 (BBIBBI) | IU | confident,happy | 2018 | 3
+에잇 (Prod. & Feat. SUGA of BTS) | IU | nostalgia,dreamy,drive | 2020 | 4
+밤편지 (Through the Night) | IU | sleep,dawn,love,calm | 2017 | 1
+Palette (feat. G-DRAGON) | IU | calm,cafe,happy | 2017 | 3
+스물셋 (Twenty-Three) | IU | confident,happy | 2015 | 4
+Coin | IU | confident,happy | 2021 | 4
+Holssi | IU | happy,confident | 2024 | 4

@@ -1,0 +1,591 @@
+@edm
+Wake Me Up | Avicii | hype,travel,comfort,drive | 2013 | 5
+Levels | Avicii | party,hype,workout | 2011 | 5
+The Nights | Avicii | hype,travel,nostalgia | 2014 | 5
+Waiting For Love | Avicii | hype,comfort | 2015 | 5
+Hey Brother | Avicii | comfort,hype | 2013 | 5
+Without You (feat. Sandro Cavazza) | Avicii | breakup,drive | 2017 | 4
+SOS (feat. Aloe Blacc) | Avicii | comfort | 2019 | 4
+Animals | Martin Garrix | workout,party,hype | 2013 | 5
+In the Name of Love | Martin Garrix & Bebe Rexha | love,dreamy | 2016 | 4
+Scared to Be Lonely | Martin Garrix & Dua Lipa | sad,dawn | 2017 | 4
+Faded | Alan Walker | dreamy,dawn,sad | 2015 | 4
+Alone | Alan Walker | dreamy,comfort | 2016 | 4
+Clarity (feat. Foxes) | Zedd | love,hype | 2012 | 5
+The Middle | Zedd, Maren Morris & Grey | flutter,drive | 2018 | 4
+Stay (with Alessia Cara) | Zedd | breakup,dawn | 2017 | 4
+Stay The Night (feat. Hayley Williams) | Zedd | party,dawn | 2013 | 5
+Language (feat. Brent Kutzle & Haley Reinhart) | Porter Robinson | dreamy,hype | 2012 | 5
+Shelter | Porter Robinson & Madeon | dreamy,nostalgia,comfort | 2016 | 4
+Look at the Sky | Porter Robinson | comfort,dreamy,hype | 2021 | 4
+Something Comforting | Porter Robinson | comfort,dreamy | 2020 | 4
+Strobe | deadmau5 | dreamy,dawn,focus | 2009 | 4
+Ghosts 'n' Stuff (feat. Rob Swire) | deadmau5 | party,hype | 2008 | 5
+Don't You Worry Child (feat. John Martin) | Swedish House Mafia | nostalgia,hype | 2012 | 5
+Save The World | Swedish House Mafia | hype,dreamy | 2011 | 5
+Greyhound | Swedish House Mafia | workout,hype | 2012 | 5
+Titanium | David Guetta | confident | 2011 | 5
+I'm Good (Blue) | David Guetta & Bebe Rexha | party,hype,summer | 2022 | 5
+When Love Takes Over (feat. Kelly Rowland) | David Guetta | party,love | 2009 | 5
+Turn Down for What | DJ Snake & Lil Jon | party,workout,hype | 2013 | 5
+Let Me Love You (feat. Justin Bieber) | DJ Snake | love,dawn | 2016 | 4
+Taki Taki (feat. Selena Gomez, Ozuna & Cardi B) | DJ Snake | party,summer | 2018 | 5
+Where Are Ü Now (with Justin Bieber) | Jack Ü | dreamy,dawn | 2015 | 4
+Bangarang (feat. Sirah) | Skrillex | workout,hype | 2011 | 5
+Scary Monsters and Nice Sprites | Skrillex | workout,hype | 2010 | 5
+Rumble | Skrillex, Fred again.. & Flowdan | workout,hype | 2023 | 5
+Marea (we've lost dancing) | Fred again.. | party,dawn,dreamy | 2021 | 4
+Delilah (pull me out of this) | Fred again.. | comfort,party | 2022 | 4
+Jungle | Fred again.. | party,hype | 2022 | 5
+adore u | Fred again.. & Obongjayar | love,party | 2023 | 4
+Turn On The Lights again.. | Fred again.., Swedish House Mafia & Future | party,hype | 2022 | 5
+Latch (feat. Sam Smith) | Disclosure | love,party | 2012 | 5
+You & Me (Flume Remix) | Disclosure | dreamy,dawn | 2013 | 4
+Never Be Like You (feat. Kai) | Flume | dreamy,breakup | 2016 | 4
+Say It (feat. Tove Lo) | Flume | dawn,dreamy | 2016 | 4
+Habits (Stay High) - Hippie Sabotage Remix | Tove Lo | dawn,sad | 2014 | 4
+Ocean Drive | Duke Dumont | drive,summer,dawn | 2015 | 4
+Innerbloom | RÜFÜS DU SOL | dreamy,dawn,focus | 2015 | 3
+On My Knees | RÜFÜS DU SOL | dreamy,dawn | 2021 | 4
+Sundream | RÜFÜS DU SOL | dreamy,summer | 2016 | 4
+Cola | CamelPhat & Elderbrook | party,dawn | 2017 | 4
+Losing It | FISHER | party,workout,hype | 2018 | 5
+Lose Control | MEDUZA, Becky Hill & Goodboys | party,dawn | 2019 | 5
+Piece Of Your Heart | MEDUZA & Goodboys | party,dawn | 2019 | 5
+Head & Heart (feat. MNEK) | Joel Corry | party,summer,happy | 2020 | 5
+Lay Low | Tiësto | party,drive | 2023 | 5
+The Business | Tiësto | party,hype,workout | 2020 | 5
+Red Lights | Tiësto | party,drive | 2013 | 5
+Something About Us | Daft Punk | love,dreamy,dawn | 2001 | 3
+One More Time | Daft Punk | party,hype,happy | 2000 | 5
+Digital Love | Daft Punk | flutter,dreamy | 2001 | 4
+Harder, Better, Faster, Stronger | Daft Punk | workout,focus | 2001 | 5
+Instant Crush (feat. Julian Casablancas) | Daft Punk | breakup,dreamy,dawn | 2013 | 4
+Lose Yourself to Dance (feat. Pharrell Williams) | Daft Punk | party | 2013 | 4
+Around the World | Daft Punk | party,focus | 1997 | 5
+Veridis Quo | Daft Punk | dreamy,focus | 2001 | 3
+Music Sounds Better With You | Stardust | party,happy | 1998 | 5
+Midnight City | M83 | drive | 2011 | 5
+Intro | The xx | dreamy,focus,dawn | 2009 | 3
+Crystalised | The xx | dreamy,dawn | 2009 | 3
+Loud Places (feat. Romy) | Jamie xx | party,dreamy,dawn | 2015 | 4
+Gosh | Jamie xx | party,focus | 2015 | 4
+Breathe | Télépopmusik | dreamy,calm,dawn | 2001 | 2
+Teardrop | Massive Attack | dreamy,dawn,calm | 1998 | 2
+Porcelain | Moby | dreamy,calm | 1999 | 2
+Sandstorm | Darude | workout,hype,party | 1999 | 5
+Blue (Da Ba Dee) | Eiffel 65 | party,nostalgia,happy | 1998 | 5
+Better Off Alone | Alice Deejay | party,nostalgia | 1999 | 5
+Kernkraft 400 (A Better Day) | Zombie Nation | workout,hype,party | 1999 | 5
+What Is Love | Haddaway | party,nostalgia | 1993 | 5
+Rhythm Is a Dancer | SNAP! | party,nostalgia | 1992 | 5
+Show Me Love | Robin S | party,nostalgia | 1993 | 5
+Sweet Dreams (Are Made of This) | Eurythmics | dreamy,nostalgia,dawn | 1983 | 4
+Blue Monday | New Order | party,nostalgia,dawn | 1983 | 5
+Get Lucky | Daft Punk | summer | 2013 | 4
+Sunset Lover | Petit Biscuit | dreamy,summer,calm,focus | 2015 | 3
+Talk Is Cheap | Chet Faker | dawn,calm | 2014 | 2
+Gold | Chet Faker | dawn,drive | 2014 | 3
+Coffee | Sylvan Esso | calm,cafe,dreamy | 2014 | 2
+Kids | ODESZA | dreamy,hype | 2014 | 4
+Say My Name (feat. Zyra) | ODESZA | dreamy,love | 2014 | 4
+A Moment Apart | ODESZA | dreamy,focus,drive | 2017 | 4
+Line Of Sight (feat. WYNNE & Mansionair) | ODESZA | dreamy,drive | 2017 | 4
+Higher Ground (feat. Naomi Wild) | ODESZA | dreamy,hype | 2017 | 4
+Bloom | ODESZA | dreamy,focus | 2014 | 3
+Ritual | Tiësto, Jonas Blue & Rita Ora | party,summer | 2019 | 5
+Mama | Jonas Blue | party,summer,happy | 2017 | 5
+Fast Car | Jonas Blue | drive,summer,nostalgia | 2015 | 4
+Perfect Strangers (feat. JP Cooper) | Jonas Blue | flutter,summer | 2016 | 5
+Lonely Together (feat. Rita Ora) | Avicii | sad,dawn | 2017 | 4
+Firestone (feat. Conrad Sewell) | Kygo | summer,dreamy,happy | 2014 | 4
+Stole the Show (feat. Parson James) | Kygo | summer,drive,happy | 2015 | 4
+It Ain't Me | Kygo & Selena Gomez | breakup,summer | 2017 | 4
+Higher Love | Kygo & Whitney Houston | happy,summer,party | 2019 | 5
+Here For You (feat. Ella Henderson) | Kygo | comfort,summer | 2015 | 4
+Stay (feat. Maty Noyes) | Kygo | love,summer | 2015 | 3
+Takeaway | The Chainsmokers & ILLENIUM | breakup,drive | 2019 | 4
+Good Things Fall Apart (with Jon Bellion) | ILLENIUM | breakup,sad | 2019 | 4
+Fractures (feat. Nevve) | ILLENIUM | breakup,sad | 2017 | 4
+Happier | Marshmello | breakup | 2018 | 4
+Alone | Marshmello | sad,hype | 2016 | 5
+FRIENDS | Marshmello & Anne-Marie | breakup,happy,confident | 2018 | 5
+Silence (feat. Khalid) | Marshmello | sad,comfort,dawn | 2017 | 4
+2002 | Anne-Marie | nostalgia,summer,happy | 2018 | 4
+Ciao Adios | Anne-Marie | breakup,confident,party | 2017 | 5
+Rockabye (feat. Sean Paul & Anne-Marie) | Clean Bandit | party,summer | 2016 | 5
+Solo (feat. Demi Lovato) | Clean Bandit | breakup,party | 2018 | 5
+Dancing On My Own | Calum Scott | sad,breakup,dawn | 2016 | 2
+Dancing On My Own | Robyn | breakup,party,dawn | 2010 | 5
+Call on Me | Eric Prydz | party,workout | 2004 | 5
+Opus | Eric Prydz | dreamy,focus,drive | 2015 | 5
+Pjanoo | Eric Prydz | party,happy | 2008 | 5
+Sweet Nothing (feat. Florence Welch) | Calvin Harris | party,love | 2012 | 5
+Prayer in C (Robin Schulz Remix) | Lilly Wood & The Prick | summer,drive | 2014 | 4
+Waves (Robin Schulz Radio Edit) | Mr. Probz | summer,dawn | 2014 | 4
+Stereo Love | Edward Maya & Vika Jigulina | party,nostalgia,summer | 2009 | 5
+Mr. Saxobeat | Alexandra Stan | party,nostalgia | 2011 | 5
+Alors on danse | Stromae | party,dawn | 2010 | 5
+Papaoutai | Stromae | party,sad | 2013 | 4
+Tous les mêmes | Stromae | breakup,party | 2013 | 4
+
+@jazz
+Fly Me To The Moon | Frank Sinatra | love,happy,cafe | 1964 | 3
+The Way You Look Tonight | Frank Sinatra | love,calm,dawn | 1964 | 2
+My Way | Frank Sinatra | confident,nostalgia | 1969 | 3
+Come Fly With Me | Frank Sinatra | travel,happy | 1958 | 4
+New York, New York | Frank Sinatra | confident,travel,hype | 1980 | 4
+L-O-V-E | Nat King Cole | love,happy,cafe | 1965 | 3
+Unforgettable | Nat King Cole | love,calm | 1951 | 2
+What A Wonderful World | Louis Armstrong | comfort,calm,happy | 1967 | 1
+La Vie En Rose | Louis Armstrong | love,cafe,dreamy | 1950 | 2
+Dream a Little Dream of Me | Ella Fitzgerald & Louis Armstrong | love,sleep,dreamy | 1950 | 1
+Cheek to Cheek | Ella Fitzgerald & Louis Armstrong | love,cafe,happy | 1956 | 3
+Summertime | Ella Fitzgerald & Louis Armstrong | summer,calm,cafe | 1957 | 2
+Dream A Little Dream Of Me | The Mamas & The Papas | dreamy,love | 1968 | 3
+Feeling Good | Nina Simone | confident,comfort,dawn | 1965 | 3
+My Baby Just Cares For Me | Nina Simone | happy,cafe,love | 1958 | 3
+I Put a Spell on You | Nina Simone | dreamy,dawn | 1965 | 3
+Sinnerman | Nina Simone | hype,focus | 1965 | 5
+Take Five | The Dave Brubeck Quartet | cafe,focus,calm | 1959 | 3
+So What | Miles Davis | focus,cafe,dawn | 1959 | 2
+Blue in Green | Miles Davis | dawn,calm,rain,focus | 1959 | 1
+My Funny Valentine | Chet Baker | love,dawn,calm | 1954 | 1
+I Fall in Love Too Easily | Chet Baker | love,sad,dawn | 1954 | 1
+Almost Blue | Chet Baker | sad,dawn,rain | 1987 | 1
+Autumn Leaves | Bill Evans Trio | autumn,cafe,focus | 1959 | 2
+Waltz for Debby | Bill Evans Trio | calm,cafe,focus | 1961 | 2
+Peace Piece | Bill Evans | calm,sleep,focus,dawn | 1959 | 1
+Moanin' | Art Blakey & The Jazz Messengers | cafe,focus,hype | 1958 | 4
+In a Sentimental Mood | Duke Ellington & John Coltrane | dawn,calm,rain | 1963 | 1
+My Favorite Things | John Coltrane | focus,cafe,winter | 1961 | 3
+Naima | John Coltrane | calm,dawn | 1960 | 1
+Misty | Erroll Garner | calm,rain,cafe | 1954 | 2
+The Girl from Ipanema | Stan Getz & João Gilberto | summer,cafe,calm,travel | 1964 | 2
+Corcovado (Quiet Nights of Quiet Stars) | Stan Getz & João Gilberto | dawn,calm,cafe | 1964 | 1
+Água de Beber | Astrud Gilberto | summer,cafe,happy | 1965 | 3
+Mas Que Nada | Sérgio Mendes & Brasil '66 | happy,party,summer | 1966 | 4
+Moon River | Audrey Hepburn | dreamy,calm,sleep | 1961 | 1
+Don't Know Why | Norah Jones | calm,cafe,rain,dawn | 2002 | 1
+Come Away With Me | Norah Jones | love,calm,cafe,sleep | 2002 | 1
+Sunrise | Norah Jones | calm,commute,cafe | 2004 | 2
+Turn Me On | Norah Jones | love,cafe | 2002 | 2
+Feeling Good | Michael Bublé | confident,cafe | 2005 | 4
+Home | Michael Bublé | nostalgia,love,winter | 2005 | 2
+Everything | Michael Bublé | love,happy | 2007 | 3
+Sway | Michael Bublé | love,cafe,party | 2004 | 4
+Haven't Met You Yet | Michael Bublé | flutter,happy | 2009 | 4
+Fly Me to the Moon | Julie London | love,dawn | 1963 | 2
+Cry Me a River | Julie London | breakup,dawn,sad | 1955 | 1
+Sunny | Bobby Hebb | happy,summer | 1966 | 3
+I've Got You Under My Skin | Frank Sinatra | love,flutter | 1956 | 4
+Beyond the Sea | Bobby Darin | love,happy,summer,travel | 1959 | 4
+Sway | Dean Martin | love,cafe,party | 1954 | 4
+That's Amore | Dean Martin | love,happy | 1953 | 4
+Let It Snow! Let It Snow! Let It Snow! | Dean Martin | winter,happy,calm | 1959 | 3
+Can't Help Falling in Love | Elvis Presley | love,calm,dawn | 1961 | 1
+Unchained Melody | The Righteous Brothers | love,nostalgia | 1965 | 2
+At Last | Etta James | love,calm | 1960 | 2
+Stand By Me | Ben E. King | love | 1961 | 2
+Fever | Peggy Lee | dawn,confident | 1958 | 2
+Lullaby of Birdland | Sarah Vaughan | cafe,calm | 1954 | 3
+Gymnopédie No. 1 | Erik Satie | calm,sleep,focus,rain | 1888 | 1
+Clair de Lune | Claude Debussy | dreamy,sleep,calm,dawn | 1905 | 1
+River Flows in You | Yiruma | calm,focus,love,sleep | 2001 | 1
+Kiss the Rain | Yiruma | rain,calm,focus | 2003 | 1
+Maybe | Yiruma | calm,sad,sleep | 2001 | 1
+Merry Christmas Mr. Lawrence | Ryuichi Sakamoto | winter,calm,dawn,focus | 1983 | 1
+Experience | Ludovico Einaudi | dreamy,focus,hype | 2013 | 3
+Nuvole Bianche | Ludovico Einaudi | calm,focus,sad | 2004 | 1
+Una Mattina | Ludovico Einaudi | calm,focus,commute | 2004 | 1
+Comptine d'un autre été, l'après-midi | Yann Tiersen | calm,cafe,focus,nostalgia | 2001 | 2
+Interstellar Main Theme | Hans Zimmer | dreamy,focus,dawn | 2014 | 3
+Time | Hans Zimmer | dreamy,focus,dawn | 2010 | 3
+Cornfield Chase | Hans Zimmer | dreamy,focus,drive | 2014 | 3
+Mia & Sebastian's Theme | Justin Hurwitz | dreamy,love,calm | 2016 | 2
+One Summer's Day | Joe Hisaishi | summer,nostalgia,calm,focus | 2001 | 1
+Summer | Joe Hisaishi | summer,nostalgia,happy | 1999 | 2
+Merry-Go-Round of Life | Joe Hisaishi | dreamy,nostalgia,focus | 2004 | 2
+Snowman | WYS | winter,focus,calm,sleep | 2019 | 1
+Aruarian Dance | Nujabes | focus,calm,cafe,dawn | 2004 | 2
+Feather (feat. Cise Starr & Akin from CYNE) | Nujabes | focus,comfort,cafe | 2005 | 3
+Luv(sic) Part 3 (feat. Shing02) | Nujabes | focus,dawn,nostalgia | 2008 | 3
+Reflection Eternal | Nujabes | focus,calm,rain | 2005 | 2
+Battlecry | Nujabes | focus,hype | 2004 | 3
+Lady Brown (feat. Cise Starr) | Nujabes | cafe,focus | 2003 | 3
+Shiki No Uta | MINMI | nostalgia,focus | 2004 | 3
+Kiss of Life | Sade | love,dawn,calm | 1992 | 2
+Smooth Operator | Sade | dawn,confident,cafe | 1984 | 3
+No Ordinary Love | Sade | love,dawn,dreamy | 1992 | 2
+By Your Side | Sade | love,comfort,calm | 2000 | 2
+Cherish the Day | Sade | love,dawn | 1993 | 2
+Golden Hour | Kacey Musgraves | calm | 2018 | 2
+Come Together | Gary Clark Jr. | confident | 2017 | 4
+Sunday Morning | Maroon 5 | cafe | 2002 | 3
+Valerie | Mark Ronson & Amy Winehouse | happy,party | 2007 | 5
+Love Is a Losing Game | Amy Winehouse | breakup,sad,dawn | 2006 | 1
+Lovely Day | Bill Withers | happy | 1977 | 3
+Cantaloupe Island | Herbie Hancock | cafe,focus | 1964 | 3
+Chameleon | Herbie Hancock | focus,drive | 1973 | 4
+Spain | Chick Corea | focus,hype | 1972 | 4
+Birdland | Weather Report | focus,hype,drive | 1977 | 4
+Put Your Records On | Corinne Bailey Rae | cafe | 2006 | 3
+Valerie | Amy Winehouse | party | 2007 | 5
+
+@acoustic
+Banana Pancakes | Jack Johnson | rain,calm,cafe,happy | 2005 | 2
+Better Together | Jack Johnson | love,calm,cafe | 2005 | 2
+Upside Down | Jack Johnson | happy,calm | 2006 | 3
+Sitting, Waiting, Wishing | Jack Johnson | calm,breakup | 2005 | 3
+Flake | Jack Johnson | calm,summer | 2001 | 3
+Bubble Toes | Jack Johnson | love,summer,happy | 2001 | 3
+Rivers and Roads | The Head and the Heart | travel | 2011 | 3
+Let Her Go | Passenger | breakup,sad,nostalgia | 2012 | 2
+Holes | Passenger | comfort | 2012 | 3
+I Will Follow You into the Dark | Death Cab for Cutie | love,sad,dawn | 2005 | 1
+Transatlanticism | Death Cab for Cutie | dreamy,sad | 2003 | 2
+Hallelujah | Jeff Buckley | sad,dawn,calm | 1994 | 1
+Fast Car | Tracy Chapman | drive,nostalgia,sad | 1988 | 3
+Fast Car | Luke Combs | drive,nostalgia | 2023 | 3
+Somewhere Over the Rainbow | Israel Kamakawiwo'ole | comfort,calm,dreamy,sleep | 1993 | 1
+Tears in Heaven | Eric Clapton | sad,calm | 1992 | 1
+Wonderful Tonight | Eric Clapton | love,calm,dawn | 1977 | 2
+Layla | Derek & The Dominos | breakup,drive | 1970 | 4
+Fire and Rain | James Taylor | sad,rain | 1970 | 2
+You've Got a Friend | James Taylor | comfort,calm | 1971 | 2
+Sweet Baby James | James Taylor | sleep,calm | 1970 | 1
+The Sound of Silence | Simon & Garfunkel | sad,dawn,calm | 1964 | 2
+Bridge Over Troubled Water | Simon & Garfunkel | comfort,calm | 1970 | 2
+Mrs. Robinson | Simon & Garfunkel | happy,nostalgia | 1968 | 4
+Scarborough Fair / Canticle | Simon & Garfunkel | dreamy,calm,autumn | 1966 | 2
+Cecilia | Simon & Garfunkel | happy,party | 1970 | 5
+Vincent | Don McLean | sad,dreamy,dawn | 1971 | 1
+Both Sides, Now | Joni Mitchell | nostalgia,calm | 1969 | 1
+A Case of You | Joni Mitchell | love,sad | 1971 | 1
+Big Yellow Taxi | Joni Mitchell | happy,nostalgia | 1970 | 4
+Harvest Moon | Neil Young | love,calm,autumn | 1992 | 2
+Heart of Gold | Neil Young | calm,nostalgia | 1972 | 3
+Blowin' in the Wind | Bob Dylan | calm,nostalgia | 1963 | 2
+Don't Think Twice, It's All Right | Bob Dylan | breakup,calm | 1963 | 2
+Knockin' On Heaven's Door | Bob Dylan | sad,calm | 1973 | 2
+Leaving on a Jet Plane | John Denver | travel,breakup,nostalgia | 1969 | 2
+Take Me Home, Country Roads | John Denver | travel,nostalgia,drive,happy | 1971 | 3
+Annie's Song | John Denver | love,calm | 1974 | 1
+Yesterday Once More | Carpenters | nostalgia,calm | 1973 | 2
+Close to You | Carpenters | love,calm | 1970 | 2
+Top of the World | Carpenters | happy,love | 1972 | 3
+Skinny Love | Birdy | sad,breakup | 2011 | 1
+People Help the People | Birdy | comfort | 2011 | 2
+Wings | Birdy | comfort,dreamy | 2013 | 3
+Youth | Daughter | sad | 2013 | 2
+Hallelujah | Leonard Cohen | sad,calm | 1984 | 1
+Bloom | The Paper Kites | love,calm,spring | 2010 | 1
+Electric Indigo | The Paper Kites | love,calm | 2015 | 2
+Featherstone | The Paper Kites | calm,dreamy | 2010 | 1
+I Was Made For Loving You | Tori Kelly & Ed Sheeran | love | 2015 | 3
+Little Talks | Of Monsters and Men | hype,happy,travel | 2011 | 5
+Dirty Paws | Of Monsters and Men | dreamy,happy | 2011 | 4
+King and Lionheart | Of Monsters and Men | comfort,dreamy | 2012 | 4
+Lost in Japan | Shawn Mendes | travel,love | 2018 | 4
+Coffee | beabadoobee | love,cafe,calm | 2017 | 2
+Glue Song | beabadoobee | love,calm,flutter | 2023 | 2
+the perfect pair | beabadoobee | love,dreamy | 2022 | 3
+Talk | beabadoobee | hype | 2021 | 4
+Ocean Eyes | Billie Eilish | love | 2016 | 2
+Location Unknown ◐ | HONNE | love,dreamy,dawn | 2018 | 3
+Day 1 ◑ | HONNE | love,calm | 2018 | 3
+Warm On A Cold Night | HONNE | winter,love,dawn | 2016 | 3
+Free Love | HONNE | love,dawn | 2018 | 3
+Afterglow | Ed Sheeran | love,winter,calm | 2020 | 2
+Kiss Me | Ed Sheeran | love,sleep,dawn | 2011 | 1
+Tenerife Sea | Ed Sheeran | love,calm,summer | 2014 | 1
+Supermarket Flowers | Ed Sheeran | sad,comfort | 2017 | 1
+The A Team | Ed Sheeran | sad | 2011 | 2
+Give Me Love | Ed Sheeran | love,sad,dawn | 2011 | 2
+I See Fire | Ed Sheeran | dreamy | 2013 | 2
+Small Bump | Ed Sheeran | love,calm | 2011 | 1
+Sunflower | Rex Orange County | happy | 2017 | 3
+Ribs | Lorde | dawn | 2013 | 4
+Riptide | Vance Joy | happy | 2013 | 4
+Georgia | Vance Joy | love,calm | 2014 | 3
+Mess Is Mine | Vance Joy | love,calm | 2014 | 3
+Lay It on Me | Vance Joy | love,happy | 2017 | 4
+I'm with You | Vance Joy | love,calm | 2018 | 3
+Be Alright | Dean Lewis | breakup,sad,comfort | 2018 | 2
+Waves | Dean Lewis | nostalgia,sad | 2017 | 3
+How Do I Say Goodbye | Dean Lewis | sad | 2022 | 2
+Falling Like The Stars | James Arthur | love,dreamy | 2019 | 2
+Wildfire | Seafret | love,dreamy | 2016 | 3
+Atlantis | Seafret | breakup,sad,dreamy | 2015 | 2
+Lost On You | LP | breakup,dawn | 2015 | 4
+Wherever You Will Go | The Calling | love,comfort,nostalgia | 2001 | 4
+Breakeven | The Script | breakup,sad | 2008 | 3
+The Man Who Can't Be Moved | The Script | breakup,sad | 2008 | 3
+Hall of Fame (feat. will.i.am) | The Script | confident,workout,hype | 2012 | 5
+Superheroes | The Script | comfort,hype | 2014 | 5
+Hey There Delilah | Plain White T's | love | 2005 | 2
+Bad Day | Daniel Powter | comfort | 2005 | 3
+Collide | Howie Day | love,flutter | 2004 | 3
+Cannonball | Damien Rice | love,calm,sad | 2002 | 1
+The Blower's Daughter | Damien Rice | breakup,sad,dawn | 2001 | 1
+9 Crimes | Damien Rice | sad,dawn | 2006 | 1
+Falling Slowly | Glen Hansard & Markéta Irglová | love,calm,dawn | 2007 | 2
+Lost Stars | Adam Levine | sad,dawn,dreamy,travel | 2014 | 2
+Lost Stars | Keira Knightley | sad,dawn | 2014 | 2
+Like a Star | Corinne Bailey Rae | love,calm | 2005 | 2
+Say Something | A Great Big World & Christina Aguilera | breakup,sad | 2013 | 1
+Let It Be Me | Ray LaMontagne | love | 2006 | 1
+Trouble | Ray LaMontagne | love,calm | 2004 | 2
+Kids Again | Sam Smith | nostalgia | 2017 | 2
+To Build a Home | The Cinematic Orchestra | sad,dreamy,dawn | 2007 | 1
+Mad World | Gary Jules | sad,dawn,rain | 2001 | 1
+Hurt | Johnny Cash | sad | 2002 | 1
+Ring of Fire | Johnny Cash | love,happy | 1963 | 4
+Jolene | Dolly Parton | breakup,sad | 1973 | 3
+9 to 5 | Dolly Parton | commute,happy,hype | 1980 | 5
+Before He Cheats | Carrie Underwood | breakup,confident | 2006 | 4
+Tennessee Whiskey | Chris Stapleton | love,calm,dawn | 2015 | 2
+Die A Happy Man | Thomas Rhett | love,calm | 2015 | 2
+Last Night | Morgan Wallen | breakup,drive | 2023 | 4
+Wasted On You | Morgan Wallen | breakup | 2021 | 3
+Love Story | Taylor Swift | love | 2008 | 4
+Beautiful Crazy | Luke Combs | love,calm | 2018 | 2
+Something in the Orange | Zach Bryan | breakup,sad,dawn | 2022 | 2
+Pink Skies | Zach Bryan | nostalgia,sad | 2024 | 2
+I Remember Everything (feat. Kacey Musgraves) | Zach Bryan | breakup,nostalgia,sad | 2023 | 2
+A Bar Song (Tipsy) | Shaboozey | party,happy | 2024 | 4
+Golden Hour | Kacey Musgraves | calm | 2018 | 2
+Slow Burn | Kacey Musgraves | calm,dreamy | 2018 | 2
+Rainbow | Kacey Musgraves | comfort,calm | 2018 | 1
+Ho Hey | The Lumineers | happy | 2012 | 4
+Lovers In A Past Life | Calvin Harris & Rag'n'Bone Man | love | 2024 | 4
+Human | Rag'n'Bone Man | confident,sad | 2016 | 4
+Somewhere Only We Know | Lily Allen | nostalgia | 2013 | 2
+
+@jpop
+Lemon | Kenshi Yonezu | sad,nostalgia,dawn | 2018 | 3
+KICK BACK | Kenshi Yonezu | hype,workout,confident | 2022 | 5
+Uchiage Hanabi | DAOKO & Kenshi Yonezu | summer,nostalgia,dawn | 2017 | 3
+Peace Sign | Kenshi Yonezu | hype,confident | 2017 | 5
+Loser | Kenshi Yonezu | hype,confident | 2016 | 5
+Flamingo | Kenshi Yonezu | dawn,party | 2018 | 4
+Spinning Globe | Kenshi Yonezu | dreamy,comfort | 2023 | 3
+IRIS OUT | Kenshi Yonezu | hype,workout,confident | 2025 | 5
+Idol | YOASOBI | hype,confident,party | 2023 | 5
+Yoru ni Kakeru | YOASOBI | hype,dawn,drive | 2019 | 5
+Gunjou | YOASOBI | hype,comfort,commute | 2020 | 5
+Kaibutsu | YOASOBI | hype,confident | 2021 | 5
+Halzion | YOASOBI | dreamy,breakup | 2020 | 4
+Tabun | YOASOBI | breakup,calm | 2020 | 3
+Biri-Biri | YOASOBI | hype | 2022 | 5
+Sentimental Love | YOASOBI | love | 2023 | 4
+Shukufuku | YOASOBI | hype,confident | 2022 | 5
+Suzume (feat. Toaka) | RADWIMPS | dreamy,travel | 2022 | 3
+Sparkle | RADWIMPS | dreamy,love,nostalgia | 2016 | 3
+Zenzenzense | RADWIMPS | hype,flutter,dreamy | 2016 | 5
+Nandemonaiya | RADWIMPS | nostalgia,sad,dreamy | 2016 | 2
+Is There Still Anything That Love Can Do? | RADWIMPS | dreamy,rain | 2019 | 3
+Grand Escape (feat. Toko Miura) | RADWIMPS | dreamy,hype | 2019 | 4
+Pretender | Official HIGE DANdism | breakup,sad,drive | 2019 | 4
+Subtitle | Official HIGE DANdism | sad,winter,love | 2022 | 3
+I LOVE... | Official HIGE DANdism | love,happy | 2020 | 4
+Mixed Nuts | Official HIGE DANdism | hype,happy | 2022 | 5
+Cry Baby | Official HIGE DANdism | hype,confident | 2021 | 5
+Universe | Official HIGE DANdism | hype,dreamy | 2021 | 5
+Shinunoga E-Wa | Fujii Kaze | confident,dawn,party | 2020 | 4
+Matsuri | Fujii Kaze | party,happy | 2022 | 4
+Kirari | Fujii Kaze | happy,drive,summer | 2021 | 4
+Hana | Fujii Kaze | dreamy,calm | 2023 | 3
+Michi Teyu Ku (Overflowing) | Fujii Kaze | comfort,calm | 2022 | 2
+Nan-Nan | Fujii Kaze | dawn | 2020 | 3
+Ao To Natsu | Mrs. GREEN APPLE | summer,hype,happy | 2018 | 5
+Lilac | Mrs. GREEN APPLE | spring,hype,comfort | 2024 | 5
+Dance Hall | Mrs. GREEN APPLE | happy,party,commute | 2022 | 5
+Magic | Mrs. GREEN APPLE | happy,hype | 2023 | 5
+Inferno | Mrs. GREEN APPLE | hype,workout | 2019 | 5
+Bling-Bang-Bang-Born | Creepy Nuts | hype,party,workout | 2024 | 5
+Otonoke | Creepy Nuts | hype,workout | 2024 | 5
+Gurenge | LiSA | hype,workout,confident | 2019 | 5
+Homura | LiSA | sad,comfort | 2020 | 4
+Unravel | TK from Ling tosite sigure | hype,sad | 2014 | 5
+Shinzou wo Sasageyo! | Linked Horizon | hype,workout | 2017 | 5
+Guren no Yumiya | Linked Horizon | hype,workout | 2013 | 5
+Usseewa | Ado | confident,workout,hype | 2020 | 5
+New Genesis | Ado | hype,confident | 2022 | 5
+Odo | Ado | confident,party | 2021 | 5
+Show | Ado | hype,party | 2023 | 5
+Kawaki wo Ameku | Minami | hype,sad | 2018 | 5
+Haru wo Tsugeru | yama | spring,dawn,calm | 2020 | 3
+Kaikai Kitan | Eve | hype,workout | 2020 | 5
+Dramaturgy | Eve | hype,dreamy | 2017 | 5
+Sakura | Ikimonogakari | spring,nostalgia | 2006 | 3
+Blue Bird | Ikimonogakari | hype,comfort | 2008 | 5
+Arigatou | Ikimonogakari | comfort,love | 2010 | 3
+First Love | Hikaru Utada | love,nostalgia,sad | 1999 | 2
+Hatsukoi | Hikaru Utada | love,nostalgia | 2018 | 2
+Automatic | Hikaru Utada | nostalgia,love | 1998 | 3
+One Last Kiss | Hikaru Utada | love,dreamy,dawn | 2021 | 4
+Beautiful World | Hikaru Utada | dreamy,comfort | 2007 | 4
+Hikari | Hikaru Utada | comfort,hype | 2002 | 4
+Sakura Nagashi | Hikaru Utada | sad,spring | 2012 | 3
+Michi | Hikaru Utada | comfort | 2016 | 4
+Tsunami | Southern All Stars | summer,nostalgia,sad | 2000 | 2
+Kimi wa Rock wo Kikanai | Aimyon | love,flutter,nostalgia | 2017 | 4
+Marigold | Aimyon | summer,love,nostalgia | 2018 | 3
+Ai wo Tsutaetai da toka | Aimyon | love,flutter | 2017 | 3
+Haruno Hi | Aimyon | spring,love | 2019 | 3
+Sukiyaki (Ue o Muite Arukō) | Kyu Sakamoto | nostalgia,sad,calm | 1961 | 2
+Kimi ni Todoke | Tanizawa Tomofumi | flutter | 2009 | 3
+Ninelie | Aimer | sad,dreamy | 2016 | 4
+Kataomoi | Aimer | love,sad,flutter | 2016 | 2
+Zankyosanka | Aimer | hype,confident | 2022 | 5
+Brave Shine | Aimer | hype | 2015 | 5
+Kizuna | Aimer | comfort | 2017 | 3
+Dry Flower | Yuuri | breakup,sad | 2020 | 2
+Betelgeuse | Yuuri | dreamy,love,dawn | 2020 | 3
+Kakurenbo | AliA | hype | 2019 | 5
+Hikaru Nara | Goose house | hype,flutter,spring | 2014 | 5
+Kaze ni Naru | Ayano Tsuji | happy,calm,travel | 2002 | 3
+Inochi no Namae | Joe Hisaishi | dreamy,calm | 2001 | 2
+Itsumo Nando Demo | Youmi Kimura | dreamy,calm,comfort | 2001 | 1
+Kimi wo Nosete | Azumi Inoue | travel,dreamy,nostalgia | 1986 | 2
+Sanpo | Azumi Inoue | happy,travel | 1988 | 4
+Kaze no Toorimichi | Joe Hisaishi | calm,summer | 1988 | 2
+My Neighbor Totoro | Azumi Inoue | happy,nostalgia | 1988 | 4
+Hikoukigumo | Yumi Arai | nostalgia,calm,summer | 1973 | 2
+Rouge no Dengon | Yumi Arai | happy,travel | 1975 | 4
+Yasashisa ni Tsutsumareta nara | Yumi Arai | calm,nostalgia | 1974 | 2
+Haru yo, Koi | Yumi Matsutoya | spring,nostalgia,sad | 1994 | 2
+Mabataki | back number | love,calm | 2018 | 3
+Happy End | back number | breakup,sad | 2016 | 2
+Christmas Song | back number | winter,love | 2015 | 3
+Suiheisen | back number | comfort,summer | 2020 | 3
+Takaneno Hanakosan | back number | love,flutter | 2013 | 4
+Natsu Matsuri | Whiteberry | summer,nostalgia,party | 2000 | 5
+Secret Base ~Kimi ga Kureta Mono~ | ZONE | summer,nostalgia,sad | 2001 | 3
+Dragon Night | SEKAI NO OWARI | hype,party,dreamy | 2014 | 5
+RPG | SEKAI NO OWARI | happy,travel,comfort | 2013 | 5
+Habit | SEKAI NO OWARI | hype,confident | 2022 | 5
+Sakura | Moriyama Naotaro | spring,nostalgia | 2003 | 2
+Kanade | Sukima Switch | nostalgia,breakup,spring | 2004 | 3
+Zenryoku Shounen | Sukima Switch | hype,comfort | 2005 | 5
+Tamashii no Rufuran | Yoko Takahashi | hype,nostalgia | 2009 | 5
+Zankoku na Tenshi no Te-ze | Yoko Takahashi | hype,nostalgia,confident | 1995 | 5
+Fly Me to the Moon | CLAIRE | dreamy | 1995 | 3
+Silhouette | KANA-BOON | hype,nostalgia | 2014 | 5
+Sign | FLOW | hype,comfort | 2009 | 5
+GO!!! | FLOW | hype,workout | 2004 | 5
+Haruka Kanata | ASIAN KUNG-FU GENERATION | hype,nostalgia | 2003 | 5
+Rewrite | ASIAN KUNG-FU GENERATION | hype | 2004 | 5
+Soranin | ASIAN KUNG-FU GENERATION | nostalgia,sad | 2005 | 4
+Kimi no Shiranai Monogatari | supercell | summer,nostalgia,dawn,flutter | 2009 | 4
+Melt | supercell | flutter,love | 2007 | 4
+Senbonzakura | Kurousa-P | hype,spring | 2011 | 5
+Hai Yorokonde | Kocchi no Kento | hype,party,confident | 2024 | 5
+Kirameki | wacci | love,comfort | 2016 | 3
+Aitakute Aitakute | Kana Nishino | breakup,sad | 2010 | 3
+Kawaii Dake ja Dame Desu ka? | CUTIE STREET | happy,hype,flutter | 2024 | 5
+Overdose | natori | dawn,dreamy,party | 2022 | 4
+Bunny Girl | AKASAKI | dawn,confident,party | 2024 | 4
+
+@citypop
+Plastic Love | Mariya Takeuchi | dawn,nostalgia,dreamy,drive | 1984 | 4
+September | Mariya Takeuchi | autumn,nostalgia,breakup | 1979 | 4
+Mayonaka no Door ~Stay With Me | Miki Matsubara | dawn,nostalgia,breakup,drive | 1979 | 4
+Ride on Time | Tatsuro Yamashita | summer,drive,happy | 1980 | 5
+Christmas Eve | Tatsuro Yamashita | winter,love,nostalgia | 1983 | 3
+Sparkle | Tatsuro Yamashita | summer,drive,happy | 1982 | 5
+Love Talkin' (Honey It's You) | Tatsuro Yamashita | love,dawn,drive | 1982 | 4
+Your Eyes | Tatsuro Yamashita | love,dawn,calm | 1982 | 2
+Fly-Day Chinatown | Yasuha | party,dawn,nostalgia | 1981 | 5
+Telephone Number | Junko Ohashi | dawn,drive,nostalgia | 1984 | 4
+4:00 A.M. | Taeko Ohnuki | dawn,dreamy,calm | 1978 | 2
+Midnight Pretenders | Tomoko Aran | dawn,dreamy,drive | 1983 | 3
+Summer Connection | Taeko Ohnuki | summer,happy | 1977 | 4
+Kanashimi ga Tomaranai | Anri | breakup,nostalgia,drive | 1983 | 4
+Last Summer Whisper | Anri | summer,nostalgia,dawn | 1982 | 3
+Remember Summer Days | Anri | summer,nostalgia,drive | 1983 | 4
+Shyness Boy | Anri | flutter,summer | 1983 | 4
+Cat's Eye | Anri | hype,party,nostalgia | 1983 | 5
+Morning Glory | Tatsuro Yamashita | commute,happy | 1982 | 4
+Wind is Blowing | Hiroshi Sato | summer,drive,calm | 1982 | 3
+Blue Lagoon | Masayoshi Takanaka | summer,drive,travel,hype | 1979 | 5
+Bay City | Junko Yagami | drive,dawn | 1984 | 4
+Driving Love | Kingo Hamada | drive,flutter | 1983 | 4
+Kimi wa 1000% | 1986 OMEGA TRIBE | summer,flutter,drive,happy | 1986 | 5
+Super Chance | Toshiki Kadomatsu | drive,party | 1985 | 5
+Sea Line | Toshiki Kadomatsu | summer,drive | 1983 | 4
+Mizu no Naka no Asia e | Yumi Matsutoya | dreamy | 1981 | 3
+Dress Down | Kaoru Akimoto | dawn,confident,drive | 1986 | 4
+Sweet Memories | Seiko Matsuda | nostalgia,love | 1983 | 2
+Akai Sweet Pea | Seiko Matsuda | spring,flutter,nostalgia | 1982 | 3
+Kazari ja Nai no yo Namida wa | Akina Nakamori | breakup,confident | 1984 | 4
+Desire | Akina Nakamori | confident,party | 1986 | 5
+Dancing Hero (Eat You Up) | Yoko Oginome | party,nostalgia | 1985 | 5
+Kimi ni Mune Kyun | Yellow Magic Orchestra | happy,nostalgia | 1983 | 4
+Rydeen | Yellow Magic Orchestra | drive,hype,focus | 1980 | 5
+Tong Poo | Yellow Magic Orchestra | focus,drive | 1978 | 4
+Kaze wo Atsumete | Happy End | calm,nostalgia | 1971 | 2
+Hoshizora no Distance | THE ALFEE | drive | 1984 | 5
+Odoru Pompokolin | B.B.Queens | happy | 1990 | 5
+Rainy Saturday & Coffee Break | Hiroshi Sato | rain,cafe,calm | 1988 | 2
+Lucky Lady Feel So Good | Tomoko Aran | happy,party | 1983 | 5
+Kimi wa Tennenshoku | Eiichi Ohtaki | summer,happy,nostalgia | 1981 | 4
+After 5 Clash | Anri | commute,party | 1984 | 5
+Windy Summer | Anri | summer,drive,happy | 1983 | 4
+Airport Lady | Toshiki Kadomatsu | travel,drive | 1985 | 4
+Down Town | Sugar Babe | party,happy,nostalgia | 1975 | 5
+
+@latin
+Despacito (feat. Daddy Yankee) | Luis Fonsi | summer,party,flutter | 2017 | 5
+Bailando (Spanish Version) | Enrique Iglesias | party,summer,hype | 2014 | 5
+Hero | Enrique Iglesias | love | 2001 | 2
+Tusa | KAROL G & Nicki Minaj | breakup,party | 2019 | 5
+Provenza | KAROL G | summer,happy,calm | 2022 | 4
+Si Antes Te Hubiera Conocido | KAROL G | summer,party,flutter | 2024 | 5
+Tití Me Preguntó | Bad Bunny | party,hype,summer | 2022 | 5
+Me Porto Bonito | Bad Bunny & Chencho Corleone | party,summer | 2022 | 5
+DtMF | Bad Bunny | nostalgia,party | 2025 | 4
+Dakiti | Bad Bunny & Jhay Cortez | dawn,party | 2020 | 4
+Callaíta | Bad Bunny | summer,calm | 2019 | 3
+Moscow Mule | Bad Bunny | summer,party | 2022 | 4
+Ojitos Lindos | Bad Bunny & Bomba Estéreo | love,calm,summer | 2022 | 3
+Mi Gente | J Balvin & Willy William | party,hype,workout | 2017 | 5
+Safari (feat. Pharrell Williams, BIA & Sky) | J Balvin | party,summer | 2016 | 4
+Ginza | J Balvin | party | 2015 | 5
+Danza Kuduro (feat. Lucenzo) | Don Omar | party,summer,workout | 2010 | 5
+Gasolina | Daddy Yankee | party,workout,hype,nostalgia | 2004 | 5
+Con Calma (feat. Snow) | Daddy Yankee | party,summer | 2019 | 5
+La Bicicleta | Carlos Vives & Shakira | summer,happy,travel | 2016 | 5
+Chantaje (feat. Maluma) | Shakira | party,confident | 2016 | 5
+Shakira: Bzrp Music Sessions, Vol. 53 | Bizarrap & Shakira | breakup,confident,party | 2023 | 5
+Quevedo: Bzrp Music Sessions, Vol. 52 | Bizarrap & Quevedo | party,dawn | 2022 | 5
+Hawái | Maluma | breakup,summer | 2020 | 4
+Felices los 4 | Maluma | party,summer | 2017 | 4
+Pepas | Farruko | party,hype,workout | 2021 | 5
+Bichota | KAROL G | confident,party | 2020 | 5
+LA CANCIÓN | J Balvin & Bad Bunny | breakup,nostalgia,dawn | 2019 | 3
+Malamente | ROSALÍA | confident,dreamy | 2018 | 4
+DESPECHÁ | ROSALÍA | summer,party,happy | 2022 | 5
+Con Altura | ROSALÍA & J Balvin | party,confident | 2019 | 5
+La Isla Bonita | Madonna | summer,travel,nostalgia | 1987 | 4
+Bésame Mucho | Andrea Bocelli | love,dawn | 2006 | 2
+Sofia | Alvaro Soler | summer,happy,travel | 2016 | 5
+El Mismo Sol | Alvaro Soler | summer,happy | 2015 | 5
+Vivir Mi Vida | Marc Anthony | happy,party,hype | 2013 | 5
+Livin' la Vida Loca | Ricky Martin | party,hype,nostalgia | 1999 | 5
+Corazón Espinado (feat. Maná) | Santana | drive | 1999 | 4
+Smooth (feat. Rob Thomas) | Santana | summer,drive,nostalgia | 1999 | 4
+Oye Como Va | Santana | party,summer | 1970 | 4
+Bamboléo | Gipsy Kings | party,summer,travel | 1987 | 5
+Volare | Gipsy Kings | happy,travel,summer | 1989 | 5
+Chan Chan | Buena Vista Social Club | calm,cafe,travel | 1997 | 2
+Vida de Rico | Camilo | love,happy | 2020 | 3
+Tú Me Dejaste De Querer | C. Tangana | breakup,party | 2020 | 4
+Me Gustas Tú | Manu Chao | happy,travel,cafe | 2001 | 4
+Clandestino | Manu Chao | travel,calm | 1998 | 3
+Obsesión | Aventura | love,nostalgia | 2002 | 4
+Propuesta Indecente | Romeo Santos | love,dawn,party | 2013 | 4
+La Macarena | Los Del Rio | party,nostalgia,happy | 1993 | 5
+Ella Baila Sola | Eslabon Armado & Peso Pluma | love,summer | 2023 | 3
+LALA | Myke Towers | party,summer | 2023 | 5
